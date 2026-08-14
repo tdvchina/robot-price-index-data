@@ -1,0 +1,637 @@
+{
+ "name": "Robot Price Index — monthly price history",
+ "url": "https://robotpriceindex.com/data",
+ "license": "CC BY 4.0 — free to use with a visible link to https://robotpriceindex.com",
+ "series": {
+  "unitree-g1": [
+   {
+    "date": "2026-08",
+    "min": 13500,
+    "max": 73900
+   }
+  ],
+  "unitree-r1": [
+   {
+    "date": "2026-08",
+    "min": 4150,
+    "max": 5900
+   }
+  ],
+  "unitree-h1": [
+   {
+    "date": "2026-08",
+    "min": 90000,
+    "max": 148235
+   }
+  ],
+  "engineai-pm01": [
+   {
+    "date": "2026-08",
+    "min": 12000,
+    "max": null
+   }
+  ],
+  "booster-t1": [
+   {
+    "date": "2026-08",
+    "min": 22000,
+    "max": 50925
+   }
+  ],
+  "1x-neo": [
+   {
+    "date": "2026-08",
+    "min": 20000,
+    "max": null
+   }
+  ],
+  "fourier-gr-3": [
+   {
+    "date": "2026-08",
+    "min": 27500,
+    "max": 80000
+   }
+  ],
+  "agibot-a2": [
+   {
+    "date": "2026-08",
+    "min": 44560,
+    "max": 190000
+   }
+  ],
+  "galbot-g1": [
+   {
+    "date": "2026-08",
+    "min": 87000,
+    "max": 96000
+   }
+  ],
+  "pndbotics-adam": [
+   {
+    "date": "2026-08",
+    "min": 100000,
+    "max": 120000
+   }
+  ],
+  "ubtech-walker-s2": [
+   {
+    "date": "2026-08",
+    "min": 68000,
+    "max": 160000
+   }
+  ],
+  "agility-digit": [
+   {
+    "date": "2026-08",
+    "min": 100000,
+    "max": 250000
+   }
+  ],
+  "fourier-gr-2": [
+   {
+    "date": "2026-08",
+    "min": 150000,
+    "max": null
+   }
+  ],
+  "kepler-k2": [
+   {
+    "date": "2026-08",
+    "min": 20000,
+    "max": 30000
+   }
+  ],
+  "figure-03": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "tesla-optimus": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "boston-dynamics-atlas": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "unitree-go2": [
+   {
+    "date": "2026-08",
+    "min": 1600,
+    "max": 19430
+   }
+  ],
+  "xiaomi-cyberdog-2": [
+   {
+    "date": "2026-08",
+    "min": 1800,
+    "max": 3000
+   }
+  ],
+  "deep-robotics-lite3": [
+   {
+    "date": "2026-08",
+    "min": 2890,
+    "max": 18900
+   }
+  ],
+  "deep-robotics-x30": [
+   {
+    "date": "2026-08",
+    "min": 65000,
+    "max": 74800
+   }
+  ],
+  "unitree-b2": [
+   {
+    "date": "2026-08",
+    "min": 70000,
+    "max": 100000
+   }
+  ],
+  "boston-dynamics-spot": [
+   {
+    "date": "2026-08",
+    "min": 75000,
+    "max": 375000
+   }
+  ],
+  "dobot-cr5": [
+   {
+    "date": "2026-08",
+    "min": 10000,
+    "max": 24320
+   }
+  ],
+  "jaka-zu7": [
+   {
+    "date": "2026-08",
+    "min": 12000,
+    "max": 18000
+   }
+  ],
+  "fanuc-lr-mate-200id": [
+   {
+    "date": "2026-08",
+    "min": 17500,
+    "max": 25000
+   }
+  ],
+  "kuka-kr6-agilus": [
+   {
+    "date": "2026-08",
+    "min": 25000,
+    "max": 35000
+   }
+  ],
+  "ur5e": [
+   {
+    "date": "2026-08",
+    "min": 32000,
+    "max": 48000
+   }
+  ],
+  "estun-er6": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "weave-isaac-1": [
+   {
+    "date": "2026-08",
+    "min": 7999,
+    "max": null
+   }
+  ],
+  "unitree-h2": [
+   {
+    "date": "2026-08",
+    "min": 29900,
+    "max": 100000
+   }
+  ],
+  "apptronik-apollo": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "xpeng-iron": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": 150000
+   }
+  ],
+  "dobot-atom": [
+   {
+    "date": "2026-08",
+    "min": 27500,
+    "max": 27530
+   }
+  ],
+  "ufactory-xarm-6": [
+   {
+    "date": "2026-08",
+    "min": 9500,
+    "max": 10499
+   }
+  ],
+  "elephant-mycobot-280": [
+   {
+    "date": "2026-08",
+    "min": 599,
+    "max": 849
+   }
+  ],
+  "abb-gofa-crb-15000": [
+   {
+    "date": "2026-08",
+    "min": 30000,
+    "max": 38000
+   }
+  ],
+  "yaskawa-hc10dtp": [
+   {
+    "date": "2026-08",
+    "min": 25000,
+    "max": 50000
+   }
+  ],
+  "anybotics-anymal": [
+   {
+    "date": "2026-08",
+    "min": 150000,
+    "max": 200000
+   }
+  ],
+  "ghost-robotics-vision-60": [
+   {
+    "date": "2026-08",
+    "min": 150000,
+    "max": 165000
+   }
+  ],
+  "pudu-bellabot": [
+   {
+    "date": "2026-08",
+    "min": 13000,
+    "max": 16000
+   }
+  ],
+  "pudu-cc1": [
+   {
+    "date": "2026-08",
+    "min": 24000,
+    "max": 31250
+   }
+  ],
+  "keenon-dinerbot-t10": [
+   {
+    "date": "2026-08",
+    "min": 13500,
+    "max": 23000
+   }
+  ],
+  "keenon-butlerbot-w3": [
+   {
+    "date": "2026-08",
+    "min": 19000,
+    "max": 28600
+   }
+  ],
+  "bear-robotics-servi-plus": [
+   {
+    "date": "2026-08",
+    "min": 13990,
+    "max": 13990
+   }
+  ],
+  "orionstar-luckibot": [
+   {
+    "date": "2026-08",
+    "min": 8999,
+    "max": 8999
+   }
+  ],
+  "gausium-scrubber-50-pro": [
+   {
+    "date": "2026-08",
+    "min": 39999,
+    "max": 43000
+   }
+  ],
+  "richtech-adam": [
+   {
+    "date": "2026-08",
+    "min": 180000,
+    "max": 180000
+   }
+  ],
+  "agibot-x1": [
+   {
+    "date": "2026-08",
+    "min": 19499,
+    "max": null
+   }
+  ],
+  "fourier-n1": [
+   {
+    "date": "2026-08",
+    "min": 16000,
+    "max": 40000
+   }
+  ],
+  "kscale-k-bot": [
+   {
+    "date": "2026-08",
+    "min": 8999,
+    "max": 8999
+   }
+  ],
+  "berkeley-humanoid-lite": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "astribot-s1": [
+   {
+    "date": "2026-08",
+    "min": 50000,
+    "max": 100000
+   }
+  ],
+  "limx-oli": [
+   {
+    "date": "2026-08",
+    "min": 21800,
+    "max": null
+   }
+  ],
+  "magicbot-z1": [
+   {
+    "date": "2026-08",
+    "min": 52800,
+    "max": null
+   }
+  ],
+  "tiangong-walker": [
+   {
+    "date": "2026-08",
+    "min": 41000,
+    "max": 43000
+   }
+  ],
+  "engineai-se01": [
+   {
+    "date": "2026-08",
+    "min": 20500,
+    "max": 54000
+   }
+  ],
+  "sanctuary-phoenix": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "neura-4ne-1": [
+   {
+    "date": "2026-08",
+    "min": 65000,
+    "max": 105000
+   }
+  ],
+  "pudu-d9": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "unitree-go2-w": [
+   {
+    "date": "2026-08",
+    "min": 13999,
+    "max": 23999
+   }
+  ],
+  "unitree-b2-w": [
+   {
+    "date": "2026-08",
+    "min": 88900,
+    "max": 100000
+   }
+  ],
+  "deep-robotics-x20": [
+   {
+    "date": "2026-08",
+    "min": 20000,
+    "max": null
+   }
+  ],
+  "deep-robotics-lynx-m20": [
+   {
+    "date": "2026-08",
+    "min": 59995,
+    "max": 61200
+   }
+  ],
+  "mir-250": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "locus-origin": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "geekplus-p1200r": [
+   {
+    "date": "2026-08",
+    "min": 35000,
+    "max": 66000
+   }
+  ],
+  "agilox-one": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "pudu-t300": [
+   {
+    "date": "2026-08",
+    "min": 20990,
+    "max": null
+   }
+  ],
+  "german-bionic-apogee": [
+   {
+    "date": "2026-08",
+    "min": 9900,
+    "max": null
+   }
+  ],
+  "ekso-evo": [
+   {
+    "date": "2026-08",
+    "min": 1495,
+    "max": 1495
+   }
+  ],
+  "ottobock-paexo-back": [
+   {
+    "date": "2026-08",
+    "min": 6400,
+    "max": 6400
+   }
+  ],
+  "herowear-apex-2": [
+   {
+    "date": "2026-08",
+    "min": 1499,
+    "max": 1999
+   }
+  ],
+  "rainbow-robotics-rb-y1": [
+   {
+    "date": "2026-08",
+    "min": 80000,
+    "max": 120000
+   }
+  ],
+  "neura-4ne1-mini": [
+   {
+    "date": "2026-08",
+    "min": 23100,
+    "max": 34650
+   }
+  ],
+  "softbank-whiz": [
+   {
+    "date": "2026-08",
+    "min": 25000,
+    "max": 25000
+   }
+  ],
+  "reachy-2": [
+   {
+    "date": "2026-08",
+    "min": 70000,
+    "max": 70000
+   }
+  ],
+  "hello-robot-stretch-3": [
+   {
+    "date": "2026-08",
+    "min": 24950,
+    "max": 24950
+   }
+  ],
+  "neura-lara-5": [
+   {
+    "date": "2026-08",
+    "min": 21800,
+    "max": 21800
+   }
+  ],
+  "neura-maira-s": [
+   {
+    "date": "2026-08",
+    "min": 43300,
+    "max": 43300
+   }
+  ],
+  "shadow-dexterous-hand": [
+   {
+    "date": "2026-08",
+    "min": 127000,
+    "max": 127000
+   }
+  ],
+  "unitree-a2": [
+   {
+    "date": "2026-08",
+    "min": 31900,
+    "max": 40900
+   }
+  ],
+  "agibot-a2-lite": [
+   {
+    "date": "2026-08",
+    "min": 44560,
+    "max": 44560
+   }
+  ],
+  "limx-tron-1": [
+   {
+    "date": "2026-08",
+    "min": 15000,
+    "max": 25000
+   }
+  ],
+  "limx-tron-2": [
+   {
+    "date": "2026-08",
+    "min": 20000,
+    "max": 25000
+   }
+  ],
+  "booster-k1": [
+   {
+    "date": "2026-08",
+    "min": 5999,
+    "max": 5999
+   }
+  ],
+  "agibot-d1-ultra": [
+   {
+    "date": "2026-08",
+    "min": 7680,
+    "max": 7680
+   }
+  ],
+  "unitree-as2": [
+   {
+    "date": "2026-08",
+    "min": 3100,
+    "max": 4650
+   }
+  ],
+  "unitree-z1": [
+   {
+    "date": "2026-08",
+    "min": 15999,
+    "max": 15999
+   }
+  ],
+  "hello-robot-stretch-4": [
+   {
+    "date": "2026-08",
+    "min": 29950,
+    "max": 29950
+   }
+  ]
+ }
+}

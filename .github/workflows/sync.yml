@@ -1,0 +1,28 @@
+# Еженедельный синк датасета с живых эндпоинтов сайта.
+name: sync-data
+on:
+  schedule:
+    - cron: '20 3 * * 1' # понедельник 03:20 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch live data
+        run: |
+          set -e
+          curl -fsSL https://robotpriceindex.com/data/robot-price-index.csv  -o data/robot-price-index.csv
+          curl -fsSL https://robotpriceindex.com/data/robot-price-index.json -o data/robot-price-index.json
+          curl -fsSL https://robotpriceindex.com/data/price-history.json     -o data/price-history.json
+      - name: Commit if changed
+        run: |
+          git config user.name 'rpi-data-sync'
+          git config user.email 'actions@github.com'
+          git add data
+          git diff --cached --quiet || git commit -m "data: weekly sync from robotpriceindex.com"
+          git push
