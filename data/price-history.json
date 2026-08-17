@@ -451,6 +451,13 @@
     "max": 61200
    }
   ],
+  "deep-robotics-lynx-s10": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
   "mir-250": [
    {
     "date": "2026-08",
@@ -631,6 +638,97 @@
     "date": "2026-08",
     "min": 29950,
     "max": 29950
+   }
+  ],
+  "byd-xiao-di": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "agibot-a2-ultra": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "fourier-gr-1": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "figure-02": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "leju-kuavo": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "robot-era-star1": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "mentee-menteebot-v3": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "clone-alpha": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "ai2-robotics-alphabot-2": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "pal-robotics-tiago": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "boston-dynamics-stretch": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "wandercraft-atalante-x": [
+   {
+    "date": "2026-08",
+    "min": null,
+    "max": null
+   }
+  ],
+  "ubtech-uworld-u1": [
+   {
+    "date": "2026-08",
+    "min": 16500,
+    "max": 136500
    }
   ]
  }

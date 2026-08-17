@@ -4,7 +4,7 @@
  "url": "https://robotpriceindex.com/data",
  "license": "CC BY 4.0 — free to use with a visible link to https://robotpriceindex.com",
  "as_of": "2026-08",
- "robot_count": 103,
+ "robot_count": 104,
  "robots": [
   {
    "slug": "unitree-g1",
@@ -1413,6 +1413,28 @@
    "speed_ms": 5,
    "ip_rating": "IP66",
    "release_year": 2025,
+   "sdk": "Deep Robotics SDK, ROS support",
+   "as_of": "2026-08"
+  },
+  {
+   "slug": "deep-robotics-lynx-s10",
+   "model": "Lynx S10",
+   "maker": "Deep Robotics (Jueying)",
+   "country": "China",
+   "category": "quadruped",
+   "price_usd_min": null,
+   "price_usd_max": null,
+   "price_note": "No public price. Deep Robotics has not listed the S10, and its new Japan distributor ELSA quotes it by inquiry only. The S10 is a lighter wheel-legged sibling of the Lynx M20 (about $60,000 in US distributor listings) at roughly 40% less weight, so treat any number below that as a guess until a quote surfaces.",
+   "availability": "preorder",
+   "height_cm": null,
+   "weight_kg": 19,
+   "dof": 16,
+   "battery_hours": 3,
+   "payload_kg": 8,
+   "reach_mm": null,
+   "speed_ms": 5,
+   "ip_rating": "IP66",
+   "release_year": 2026,
    "sdk": "Deep Robotics SDK, ROS support",
    "as_of": "2026-08"
   },
