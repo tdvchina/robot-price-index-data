@@ -730,6 +730,76 @@
     "min": 16500,
     "max": 136500
    }
+  ],
+  "pudu-kettybot-pro": [
+   {
+    "date": "2026-08",
+    "min": 13995,
+    "max": 14000
+   }
+  ],
+  "pudu-pudubot-2": [
+   {
+    "date": "2026-08",
+    "min": 6500,
+    "max": 12999
+   }
+  ],
+  "pudu-holabot": [
+   {
+    "date": "2026-08",
+    "min": 15000,
+    "max": 17999
+   }
+  ],
+  "bear-robotics-servi-lift": [
+   {
+    "date": "2026-08",
+    "min": 22500,
+    "max": 22500
+   }
+  ],
+  "lg-cloi-servebot": [
+   {
+    "date": "2026-08",
+    "min": 17900,
+    "max": 17900
+   }
+  ],
+  "yunji-run": [
+   {
+    "date": "2026-08",
+    "min": 1820,
+    "max": 3030
+   }
+  ],
+  "hyphen-makeline": [
+   {
+    "date": "2026-08",
+    "min": 50000,
+    "max": 100000
+   }
+  ],
+  "gausium-phantas": [
+   {
+    "date": "2026-08",
+    "min": 23800,
+    "max": 29500
+   }
+  ],
+  "keenon-kleenbot-c30": [
+   {
+    "date": "2026-08",
+    "min": 12200,
+    "max": 12200
+   }
+  ],
+  "nori-a3": [
+   {
+    "date": "2026-08",
+    "min": 1688,
+    "max": 1688
+   }
   ]
  }
 }
