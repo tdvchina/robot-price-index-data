@@ -4,7 +4,7 @@
  "url": "https://robotpriceindex.com/data",
  "license": "CC BY 4.0 — free to use with a visible link to https://robotpriceindex.com",
  "as_of": "2026-08",
- "robot_count": 117,
+ "robot_count": 120,
  "robots": [
   {
    "slug": "unitree-g1",
@@ -112,10 +112,31 @@
    "sdk": "Fully open-source SDK, ROS 2, Isaac Sim / Webots / MuJoCo simulation support"
   },
   {
+   "slug": "booster-t2",
+   "model": "Booster T2",
+   "maker": "Booster Robotics",
+   "country": "China",
+   "category": "humanoid",
+   "price_usd_min": 26200,
+   "price_usd_max": 31500,
+   "price_note": "No public price on the manufacturer's own site (quote-only). An authorized EU distributor lists the base Professional configuration from EUR 22,500 excl. VAT (~$26,200) to EUR 27,060 incl. VAT (~$31,500), shipping from September 2026. Higher-spec P2/P3 configurations with grippers or a dexterous hand are not separately priced.",
+   "availability": "preorder",
+   "height_cm": 140,
+   "weight_kg": 43,
+   "dof": 31,
+   "battery_hours": 2,
+   "as_of": "2026-08",
+   "payload_kg": 10,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": "Booster Studio IDE (manufacturer's own embodied-AI development environment)"
+  },
+  {
    "slug": "1x-neo",
    "model": "1X NEO",
    "maker": "1X Technologies",
-   "country": "Norway/USA",
+   "country": "Norway",
    "category": "humanoid",
    "price_usd_min": 20000,
    "price_usd_max": null,
@@ -1062,7 +1083,8 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": "Closed",
-   "as_of": "2026-08"
+   "as_of": "2026-08",
+   "apps_key": "beverage-service"
   },
   {
    "slug": "agibot-x1",
@@ -1908,7 +1930,8 @@
    "ip_rating": null,
    "release_year": 2015,
    "sdk": "ROS (Ubuntu LTS, RT Preempt), MoveIt!, ros_control",
-   "as_of": "2026-08"
+   "as_of": "2026-08",
+   "apps_key": "research-manipulation"
   },
   {
    "slug": "reachy-2",
@@ -1929,7 +1952,8 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Python SDK, ROS 2 Humble, LeRobot (open source)",
-   "as_of": "2026-08"
+   "as_of": "2026-08",
+   "apps_key": "research-manipulation"
   },
   {
    "slug": "hello-robot-stretch-3",
@@ -1950,7 +1974,8 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "ROS 2 and Python SDK (open source), Stretch AI",
-   "as_of": "2026-08"
+   "as_of": "2026-08",
+   "apps_key": "research-manipulation"
   },
   {
    "slug": "boston-dynamics-stretch",
@@ -2250,7 +2275,8 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": "Open-source ROS 2 and Python SDK; 3D SLAM navigation and data-collection tooling",
-   "as_of": "2026-08"
+   "as_of": "2026-08",
+   "apps_key": "research-manipulation"
   },
   {
    "slug": "ubtech-uworld-u1",
@@ -2439,7 +2465,8 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-08",
+   "apps_key": "food-prep"
   },
   {
    "slug": "hyphen-makeline",
@@ -2460,7 +2487,8 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-08",
+   "apps_key": "food-prep"
   },
   {
    "slug": "gausium-phantas",
@@ -2532,7 +2560,7 @@
    "slug": "nori-a3",
    "model": "Nori A3",
    "maker": "Nori Robotics",
-   "country": "United States",
+   "country": "USA",
    "category": "service",
    "price_usd_min": 1688,
    "price_usd_max": 1688,
@@ -2548,6 +2576,56 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": "Nori Lab (laptop app), Skills Marketplace",
+   "repeatability_mm": null,
+   "power_w": null,
+   "as_of": "2026-08",
+   "apps_key": "home-manipulation"
+  },
+  {
+   "slug": "microduck",
+   "model": "Microduck",
+   "maker": "Pollen Robotics (Hugging Face)",
+   "country": "France",
+   "category": "service",
+   "price_usd_min": 399,
+   "price_usd_max": 399,
+   "price_note": "Pollen Robotics (owned by Hugging Face) opened preorders on 2026-08-27 at an introductory $399 before tax and shipping, the same price across all four colorways. First deliveries are targeted before Christmas 2026 for North America and Europe; this is a small, open-source educational biped, not a labor platform.",
+   "availability": "preorder",
+   "height_cm": 25,
+   "weight_kg": 0.8,
+   "dof": null,
+   "battery_hours": null,
+   "payload_kg": null,
+   "reach_mm": null,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": "Open-source SDK, simulator and RL training stack on GitHub (Apache-2.0)",
+   "repeatability_mm": null,
+   "power_w": null,
+   "as_of": "2026-08",
+   "apps_key": "research-manipulation"
+  },
+  {
+   "slug": "zeals-d1",
+   "model": "D1",
+   "maker": "ZEALS",
+   "country": "Japan",
+   "category": "service",
+   "price_usd_min": 31300,
+   "price_usd_max": 31300,
+   "price_note": "ZEALS Corporation (Tokyo) opened sales and deployment consultations for the D1 on 2026-08-05, pricing it from ¥5,000,000 per unit (about $31,300 at current rates), per the company's own launch announcement. ZEALS is targeting 100 units of production within fiscal 2026, starting with hospital and eldercare pilots — this is a first-generation robot with no delivered-unit track record yet, and the company describes it as \"semi-domestic\": designed and assembled in Japan with some components sourced overseas.",
+   "availability": "preorder",
+   "height_cm": 129,
+   "weight_kg": null,
+   "dof": null,
+   "battery_hours": 8,
+   "payload_kg": null,
+   "reach_mm": null,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
    "as_of": "2026-08"
