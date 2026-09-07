@@ -3,8 +3,8 @@
  "description": "Price index for humanoid robots, quadruped robots, industrial arms and service robots. Every price carries an as-of date; estimates are labeled in price_note, never presented as offers.",
  "url": "https://robotpriceindex.com/data",
  "license": "CC BY 4.0 — free to use with a visible link to https://robotpriceindex.com",
- "as_of": "2026-08",
- "robot_count": 120,
+ "as_of": "2026-09",
+ "robot_count": 130,
  "robots": [
   {
    "slug": "unitree-g1",
@@ -20,7 +20,7 @@
    "weight_kg": 35,
    "dof": 23,
    "battery_hours": 2,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 2,
    "speed_ms": 2,
    "ip_rating": null,
@@ -41,7 +41,7 @@
    "weight_kg": 25,
    "dof": 26,
    "battery_hours": 1,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": null,
    "speed_ms": null,
    "ip_rating": null,
@@ -62,7 +62,7 @@
    "weight_kg": 47,
    "dof": 19,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 7,
    "speed_ms": 3.3,
    "ip_rating": null,
@@ -75,15 +75,15 @@
    "maker": "EngineAI Robotics",
    "country": "China",
    "category": "humanoid",
-   "price_usd_min": 12000,
-   "price_usd_max": null,
-   "price_note": "Official retail at 88,000 CNY (~$12,000) for the business and education versions.",
+   "price_usd_min": 20000,
+   "price_usd_max": 26000,
+   "price_note": "The original launch promo ended March 2025. Current distributor catalog pricing runs roughly $20,000–$26,000 for the business and education versions, with final cost varying by model, edition and configuration.",
    "availability": "for-sale",
    "height_cm": 138,
    "weight_kg": 40,
    "dof": 24,
    "battery_hours": 2,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": null,
    "speed_ms": 2,
    "ip_rating": null,
@@ -104,7 +104,7 @@
    "weight_kg": 30,
    "dof": 23,
    "battery_hours": 2,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 3,
    "speed_ms": 5,
    "ip_rating": null,
@@ -125,7 +125,7 @@
    "weight_kg": 43,
    "dof": 31,
    "battery_hours": 2,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 10,
    "speed_ms": null,
    "ip_rating": null,
@@ -146,7 +146,7 @@
    "weight_kg": 30,
    "dof": null,
    "battery_hours": 4,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 25,
    "speed_ms": 1.4,
    "ip_rating": null,
@@ -160,14 +160,14 @@
    "country": "China",
    "category": "humanoid",
    "price_usd_min": 27500,
-   "price_usd_max": 80000,
-   "price_note": "Channel pricing diverges: distributors list the GR-3 Care-Bot from ~$27,500 with final pricing on request, while other catalog listings cite $80,000. Care robot for homes and assisted living, in production since its CES 2026 debut.",
+   "price_usd_max": 120000,
+   "price_note": "Channel pricing diverges: institutional/distributor pricing starts above ¥200,000 (~$27,500) with final pricing on request, while other catalog listings and documented estimates for the GR-3 Care-Bot run as high as $120,000 depending on configuration. Care robot for homes and assisted-living/rehab facilities, in production since its CES 2026 debut.",
    "availability": "for-sale",
    "height_cm": 165,
    "weight_kg": 71,
    "dof": 55,
    "battery_hours": 3,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 3,
    "speed_ms": null,
    "ip_rating": null,
@@ -188,7 +188,7 @@
    "weight_kg": 69,
    "dof": 40,
    "battery_hours": 2,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 15,
    "speed_ms": 1.9,
    "ip_rating": null,
@@ -209,7 +209,7 @@
    "weight_kg": 85,
    "dof": 47,
    "battery_hours": 10,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 5,
    "speed_ms": null,
    "ip_rating": null,
@@ -224,13 +224,13 @@
    "category": "humanoid",
    "price_usd_min": 100000,
    "price_usd_max": 120000,
-   "price_note": "Distributor catalog pricing: Adam SP at $100,000, Adam Lite at $120,000; final pricing on request. Modular quasi-direct-drive actuators up to 360 N·m, open-source SDK.",
+   "price_note": "Distributor catalog pricing: Adam SP at $100,000, Adam Lite at $120,000 (inquiry-based); final pricing on request. Modular quasi-direct-drive actuators up to 360 N·m, open-source SDK.",
    "availability": "for-sale",
    "height_cm": 167,
    "weight_kg": 62,
    "dof": 41,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 5,
    "speed_ms": 1.7,
    "ip_rating": null,
@@ -244,14 +244,14 @@
    "country": "China",
    "category": "humanoid",
    "price_usd_min": 68000,
-   "price_usd_max": 160000,
-   "price_note": "No public list price — enterprise sales only. Estimates run $68k–120k per unit at small volumes (early adopters ~$90k), some sources up to $160k. Mass production underway with an order book over 800M CNY; swaps its own battery in 3 minutes.",
+   "price_usd_max": 180000,
+   "price_note": "No public list price — enterprise sales only. Documented estimates and reseller quotes vary widely: $68k–$160k per unit at small volumes (early adopters ~$90k), with one distributor listing direct purchase around $180,000 or a $5,000/month subscription alternative. Mass production underway with an order book over 800M CNY; swaps its own battery in 3 minutes.",
    "availability": "enterprise-only",
    "height_cm": 176,
    "weight_kg": 73,
    "dof": 52,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 15,
    "speed_ms": 2,
    "ip_rating": null,
@@ -272,7 +272,7 @@
    "weight_kg": 65,
    "dof": null,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 16,
    "speed_ms": 1.5,
    "ip_rating": null,
@@ -285,15 +285,15 @@
    "maker": "Fourier Intelligence",
    "country": "China",
    "category": "humanoid",
-   "price_usd_min": 150000,
+   "price_usd_min": 125000,
    "price_usd_max": null,
-   "price_note": "Estimated at $150,000+ — not officially published, enterprise sales only, no North American channel. Full-size 175 cm research and service platform with 12-DoF hands.",
+   "price_note": "Estimated between $125,000 and $150,000+ — not officially published, enterprise sales only, no North American channel. Full-size 175 cm research and service platform with 12-DoF hands.",
    "availability": "enterprise-only",
    "height_cm": 175,
    "weight_kg": 63,
    "dof": 53,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 3,
    "speed_ms": 1.4,
    "ip_rating": null,
@@ -314,7 +314,7 @@
    "weight_kg": 85,
    "dof": 52,
    "battery_hours": 8,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 15,
    "speed_ms": 1.1,
    "ip_rating": null,
@@ -335,7 +335,7 @@
    "weight_kg": 60,
    "dof": null,
    "battery_hours": 5,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 20,
    "speed_ms": 1.2,
    "ip_rating": null,
@@ -350,13 +350,13 @@
    "category": "humanoid",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Tesla has never published a price for Optimus and has no order, reservation, waitlist or lease channel: as of August 2026 tesla.com carries no Optimus product page at all, only a recruiting page. The widely quoted $20,000-$30,000 is Elon Musk's long-term target at volume, stated in 2024, not a price - on Tesla's Q4 2024 earnings call he explicitly declined to name one, saying the price \"will be set by market demand\". On the Q1 2026 call he said Optimus would probably become useful outside Tesla \"sometime next year\", and Tesla's Q2 2026 10-Q reports no Optimus revenue. Any site taking Optimus pre-orders or deposits is not affiliated with Tesla.",
+   "price_note": "Tesla has never published a price for Optimus and has no order, reservation, waitlist or lease channel: as of 2026 tesla.com carries no Optimus product page. The widely quoted $20,000-$30,000 is a long-term target at volume stated by Tesla's CEO, not a price. Any site taking Optimus pre-orders or deposits is not affiliated with Tesla.",
    "availability": "not-for-sale",
    "height_cm": 173,
    "weight_kg": 57,
    "dof": null,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 20,
    "speed_ms": 2.2,
    "ip_rating": null,
@@ -371,13 +371,13 @@
    "category": "humanoid",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Not publicly sold, no MSRP — analyst estimates run ~$130k–320k (some up to ~$420k). The production electric Atlas debuted at CES 2026 and the entire 2026 output is contracted (Hyundai Metaplant, Google DeepMind); Hyundai targets 30,000 units/year by 2028.",
+   "price_note": "Not publicly sold, no MSRP — analyst estimates run ~$130k–320k. The production electric Atlas debuted at CES 2026 and the entire 2026 output is contracted (Hyundai Metaplant, Google DeepMind); Hyundai targets 30,000 units/year by 2028.",
    "availability": "not-for-sale",
    "height_cm": null,
    "weight_kg": null,
    "dof": null,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 30,
    "speed_ms": 2.5,
    "ip_rating": "IP67",
@@ -398,7 +398,7 @@
    "weight_kg": 15,
    "dof": 12,
    "battery_hours": 2,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 8,
    "reach_mm": null,
    "speed_ms": 5,
@@ -420,7 +420,7 @@
    "weight_kg": 8.9,
    "dof": 12,
    "battery_hours": 1.5,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 1,
    "reach_mm": null,
    "speed_ms": 1.6,
@@ -442,7 +442,7 @@
    "weight_kg": 12,
    "dof": 12,
    "battery_hours": 1.5,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 5,
    "reach_mm": null,
    "speed_ms": 4,
@@ -464,7 +464,7 @@
    "weight_kg": 56,
    "dof": 12,
    "battery_hours": 4,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 20,
    "reach_mm": null,
    "speed_ms": 4,
@@ -478,15 +478,15 @@
    "maker": "Unitree Robotics",
    "country": "China",
    "category": "quadruped",
-   "price_usd_min": 70000,
-   "price_usd_max": 100000,
-   "price_note": "Officially quote-only; US resellers list ~$76,900 (down from $85,900) for the base industrial configuration; full setups with LiDAR, sensors and software run substantially higher. The $12k figure floating around is not confirmed by any reseller.",
+   "price_usd_min": 76900,
+   "price_usd_max": 296355,
+   "price_note": "Officially quote-only (Unitree's own store shows a $100,000 placeholder, final price by quote). US resellers now list the base industrial configuration at $76,900-$84,999, with a LiDAR-equipped version near $94,999; fully configured units (LiDAR, extra sensors, autonomy software) have been listed by specialty resellers as high as ~$296,000.",
    "availability": "for-sale",
    "height_cm": 65,
    "weight_kg": 60,
    "dof": 12,
    "battery_hours": 5,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 40,
    "reach_mm": null,
    "speed_ms": 6,
@@ -508,7 +508,7 @@
    "weight_kg": 32.7,
    "dof": 12,
    "battery_hours": 1.5,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 14,
    "reach_mm": null,
    "speed_ms": 1.6,
@@ -530,7 +530,7 @@
    "weight_kg": 25,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 5,
    "reach_mm": 900,
    "speed_ms": null,
@@ -554,7 +554,7 @@
    "weight_kg": 22,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 7,
    "reach_mm": 819,
    "speed_ms": null,
@@ -578,7 +578,7 @@
    "weight_kg": 25,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 7,
    "reach_mm": 717,
    "speed_ms": null,
@@ -602,7 +602,7 @@
    "weight_kg": 52,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 6,
    "reach_mm": 901,
    "speed_ms": null,
@@ -620,13 +620,13 @@
    "category": "industrial-arm",
    "price_usd_min": 32000,
    "price_usd_max": 48000,
-   "price_note": "Distributor guide (UR publishes no list price): arm + controller $32k–38k, typical 2026 US quotes $35k–48k; one concrete US listing at $37,245. A full cell with gripper and integration runs ~$60k.",
+   "price_note": "Distributor guide (UR publishes no list price): arm + controller $32k–38k, typical 2026 US quotes $35k–48k. Universal Robots' 2026 e-Series refresh introduced the UR7e (7.5 kg payload, same 850 mm reach, ~$38,400) as UR5e's successor — distributors are steering new orders to the UR7e while UR5e stock remains available new. A full cell with gripper and integration runs ~$60k.",
    "availability": "for-sale",
    "height_cm": null,
    "weight_kg": 20.6,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 5,
    "reach_mm": 850,
    "speed_ms": null,
@@ -644,13 +644,13 @@
    "category": "industrial-arm",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Legacy stock rather than a current product: the ER6 no longer appears anywhere in Estun's own ER-series catalog, whose small-payload slots are now filled by the ER3, ER4, ER7, ER8 and ER10 families. The ER6-1600 survives on distributor and marketplace listings and in an archived 2020 Estun catalog, so any price quoted for it today is for remaining stock through third parties, not a factory offer. Estun publishes no list price for this model.",
+   "price_note": "Legacy stock rather than a current product: the ER6 no longer appears anywhere in Estun's own ER-series catalog, whose small-payload slots are now filled by the ER3, ER4, ER7, ER8 and ER10 families. The ER6-1600 survives on distributor and marketplace listings and in an archived 2020 catalog, so any price quoted for it today is for remaining stock through third parties, not a factory offer. Estun publishes no list price for this model.",
    "availability": "not-for-sale",
    "height_cm": null,
    "weight_kg": null,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": 6,
    "reach_mm": 1450,
    "speed_ms": null,
@@ -674,7 +674,7 @@
    "weight_kg": null,
    "dof": null,
    "battery_hours": 8,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "payload_kg": null,
    "speed_ms": null,
    "ip_rating": null,
@@ -689,7 +689,7 @@
    "category": "humanoid",
    "price_usd_min": 29900,
    "price_usd_max": 100000,
-   "price_note": "The base H2 lists at $29,900 on the manufacturer's international store (out of stock as of mid-2026), while US resellers list it from $40,900 and the EDU edition from $68,900. The upper bound reflects the H2 Plus variant, reported at roughly $100,000 in press coverage. Store listing and reseller prices are firm offers; the H2 Plus figure is a reported price, not a public cart listing.",
+   "price_note": "The base H2 lists at $29,900 on the manufacturer's international store (out of stock as of mid-2026), while US resellers list it from $40,900 and the EDU edition from $68,900. The upper bound reflects the H2 Plus variant, reported at roughly $100,000 in press coverage.",
    "availability": "for-sale",
    "height_cm": 180,
    "weight_kg": 70,
@@ -701,7 +701,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Unitree SDK2 (C++/Python), ROS 2 support; NVIDIA Jetson AGX Thor option on EDU",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "apptronik-apollo",
@@ -711,7 +711,7 @@
    "category": "humanoid",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Apptronik has never published a price and Apollo cannot be purchased today; it is deployed only through enterprise pilot agreements (Mercedes-Benz, GXO, Jabil) arranged on a quote basis. The widely circulated $50,000 figure is a long-term at-scale cost target stated by the CEO in 2023, not a sale price. Apptronik points to Apollo 3 as its first true commercial product, targeted at 2027.",
+   "price_note": "Apptronik has never published a price and Apollo cannot be purchased today; it is deployed only through enterprise pilot agreements (Mercedes-Benz, GXO, Jabil) arranged on a quote basis. The widely circulated $50,000 figure is a long-term at-scale cost target stated by the CEO in 2023, not a sale price.",
    "availability": "enterprise-only",
    "height_cm": 173,
    "weight_kg": 73,
@@ -723,7 +723,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": "Closed platform; enterprise integrations (NVIDIA GR00T partner), no public SDK",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "xpeng-iron",
@@ -733,7 +733,7 @@
    "category": "humanoid",
    "price_usd_min": null,
    "price_usd_max": 150000,
-   "price_note": "No official price exists; XPENG's CEO has only said Iron could eventually cost 'similar to car prices'. Press reports circulate an estimate of around $150,000, which is an analyst/press estimate, not an offer. Mass production began in 2026 with first commercial deployments targeted for 2027; there are no public orders open.",
+   "price_note": "No official price exists; XPENG's CEO has only said Iron could eventually cost 'similar to car prices'. Press reports circulate an estimate of around $150,000, which is a press estimate, not an offer. Mass production began in 2026 with first commercial deployments targeted for 2027; there are no public orders open.",
    "availability": "not-for-sale",
    "height_cm": 178,
    "weight_kg": 70,
@@ -745,7 +745,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": "Closed; proprietary Turing AI chips (2,250 TOPS), no public SDK",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "dobot-atom",
@@ -755,7 +755,7 @@
    "category": "humanoid",
    "price_usd_min": 27500,
    "price_usd_max": 27530,
-   "price_note": "Launched at 199,000 yuan (about $27,500) in China with pre-orders open since early 2025; a US reseller lists it at $27,530, closely matching the manufacturer's price. Both figures are actual listed prices, not estimates. Positioned as one of the cheapest full-size dexterous humanoids on the market.",
+   "price_note": "Launched at 199,000 yuan (about $27,500) in China with pre-orders open since early 2025; a US reseller lists it at $27,530, closely matching the manufacturer's price. Positioned as one of the cheapest full-size dexterous humanoids on the market.",
    "availability": "preorder",
    "height_cm": 153,
    "weight_kg": 62,
@@ -767,7 +767,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Dobot ROM-1 robot operator model, programming interface included; 1500 TOPS edge compute",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "ufactory-xarm-6",
@@ -775,9 +775,9 @@
    "maker": "UFACTORY",
    "country": "China",
    "category": "industrial-arm",
-   "price_usd_min": 9500,
+   "price_usd_min": 8849,
    "price_usd_max": 10499,
-   "price_note": "The manufacturer's US store lists the xArm 6 at $9,500 (down from $11,000), while US resellers list it up to $10,499; both are live offer prices. The wider xArm line spans the xArm 5 at $5,799, the Lite 6 at $3,349, and the xArm 7 at $10,499 on the manufacturer's store. Bundle options with grippers and camera kits cost more.",
+   "price_note": "The manufacturer's US store lists the xArm 6 at $9,500 (down from $11,000), while authorized US resellers range from $8,849 up to $10,499; all are live offer prices. The wider xArm line spans the xArm 5 at $5,799, the Lite 6 at $3,349, and the xArm 7 at $10,499 on the manufacturer's store. Bundle options with grippers and camera kits cost more.",
    "availability": "for-sale",
    "height_cm": null,
    "weight_kg": 12.2,
@@ -789,7 +789,7 @@
    "ip_rating": null,
    "release_year": 2019,
    "sdk": "Python/C++ SDK, ROS/ROS 2, UFACTORY Studio GUI",
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "repeatability_mm": 0.1,
    "power_w": 200
   },
@@ -813,7 +813,7 @@
    "ip_rating": null,
    "release_year": 2020,
    "sdk": "Python, C++, C#, JS, ROS, myBlockly/myStudio; open-source GitHub ecosystem",
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "repeatability_mm": 0.5,
    "power_w": 60
   },
@@ -825,7 +825,7 @@
    "category": "industrial-arm",
    "price_usd_min": 30000,
    "price_usd_max": 38000,
-   "price_note": "ABB sells through distributors on a quote basis with no public list price; the $30,000-38,000 range is an estimate drawn from distributor listings and industry cost guides for the base GoFa 5 configuration with controller. The family also includes GoFa 10 and GoFa 12 variants (up to 12 kg payload, 1.62 m reach) at higher price points. Treat the range as indicative, not an offer.",
+   "price_note": "ABB sells through distributors on a quote basis with no public list price; the $30,000-38,000 range is an estimate drawn from distributor listings and industry cost guides for the base GoFa 5 configuration with controller. The family also includes GoFa 10 and GoFa 12 variants at higher price points, with GoFa 12 estimated around $50,000. Treat the range as indicative, not an offer.",
    "availability": "for-sale",
    "height_cm": null,
    "weight_kg": 27,
@@ -837,7 +837,7 @@
    "ip_rating": "IP54",
    "release_year": 2021,
    "sdk": "ABB RobotStudio, Wizard Easy Programming, RAPID",
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "repeatability_mm": 0.02,
    "power_w": 202
   },
@@ -861,7 +861,7 @@
    "ip_rating": "IP67",
    "release_year": 2019,
    "sdk": "Smart Pendant / hand-guided teaching, MotoPlus SDK, ROS driver",
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "repeatability_mm": 0.05,
    "power_w": null
   },
@@ -885,7 +885,7 @@
    "ip_rating": "IP67",
    "release_year": 2021,
    "sdk": "ANYmal API and workforce/inspection software suite; enterprise integration, no consumer SDK",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "ghost-robotics-vision-60",
@@ -895,7 +895,7 @@
    "category": "quadruped",
    "price_usd_min": 150000,
    "price_usd_max": 165000,
-   "price_note": "Vision 60 is sold to government, defense and select enterprise customers only and is not available for civilian retail purchase. Press reports and procurement records put the per-unit price at roughly $150,000-165,000 in US deals, while a UK defense purchase valued two units with a warranty package at about $590,000 for the pair. All figures come from procurement disclosures, not a public price list.",
+   "price_note": "Vision 60 is sold to government, defense and select enterprise customers only and is not available for civilian retail purchase. Press reports and procurement records put the typical per-unit price at roughly $150,000-165,000 in US deals; fully configured tactical units with custom sensor suites and encrypted communications are documented estimates running to $250,000 or more. All figures come from procurement disclosures and documented estimates, not a public price list.",
    "availability": "not-for-sale",
    "height_cm": 68.5,
    "weight_kg": 51,
@@ -907,7 +907,7 @@
    "ip_rating": "IP67",
    "release_year": 2020,
    "sdk": "C/C++, ROS/ROS 2, MAVLink-compatible APIs, ATAK integration; physics-based simulator",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "pudu-bellabot",
@@ -929,7 +929,7 @@
    "ip_rating": null,
    "release_year": 2020,
    "sdk": "Closed",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "pudu-cc1",
@@ -951,7 +951,7 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": "Closed",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "keenon-dinerbot-t10",
@@ -961,7 +961,7 @@
    "category": "service",
    "price_usd_min": 13500,
    "price_usd_max": 23000,
-   "price_note": "US reseller pricing starts at $13,500 with RaaS from about $542/month, while other US and EU distributor listings range from roughly $17,900 to $23,000 (about EUR 15,000 ex-VAT in Europe). The spread reflects regional distribution, the 23.8-inch ad screen configuration and bundled service. The manufacturer sells through channel partners with quote-based pricing.",
+   "price_note": "US reseller pricing starts at $13,500 with RaaS from about $542/month, while other US and EU distributor listings range from roughly $17,900 to $23,000 (about EUR 15,000 ex-VAT in Europe). The spread reflects regional distribution, screen configuration and bundled service. The manufacturer sells through channel partners with quote-based pricing.",
    "availability": "for-sale",
    "height_cm": 140,
    "weight_kg": 58,
@@ -973,7 +973,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": "Closed",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "keenon-butlerbot-w3",
@@ -982,8 +982,8 @@
    "country": "China",
    "category": "service",
    "price_usd_min": 19000,
-   "price_usd_max": 28600,
-   "price_note": "US distributor listings range from $19,000-19,600 up to $28,600 depending on reseller and bundled elevator/door integration. Rental programs start around $575-650/month with short minimum terms. The W3 is Keenon's hotel-focused unit with four sealed compartments and multi-floor elevator access, which drives integration costs above list price.",
+   "price_usd_max": 29600,
+   "price_note": "US distributor listings for the BUTLERBOT W3 range from about $19,000-19,600 up to $29,600 depending on reseller and bundled elevator/door integration. Rental programs start around $575-650/month with short minimum terms. The W3 is Keenon's hotel-focused unit with four sealed compartments and multi-floor elevator access, which drives integration costs above list price.",
    "availability": "for-sale",
    "height_cm": 108,
    "weight_kg": 48,
@@ -995,7 +995,7 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": "Closed",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "bear-robotics-servi-plus",
@@ -1005,7 +1005,7 @@
    "category": "service",
    "price_usd_min": 13990,
    "price_usd_max": 13990,
-   "price_note": "US resellers list Servi Plus at $13,990 to buy, with financing from about $293/month and full-service RaaS leases from roughly $599/month (36-month) to $1,199/month (12-month) including installation, mapping and support. Bear Robotics primarily pushes the subscription model, and lease plans bundle software updates and service. A 28-day demo subscription is offered for a small installation fee.",
+   "price_note": "US resellers list Servi Plus at $13,990 to buy, with financing from about $293/month and full-service RaaS leases from roughly $599/month (36-month) to $1,199/month (12-month) including installation, mapping and support. Bear Robotics primarily pushes the subscription model. A 28-day demo subscription is offered for a small installation fee.",
    "availability": "for-sale",
    "height_cm": 122,
    "weight_kg": 62,
@@ -1017,7 +1017,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": "Closed",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "orionstar-luckibot",
@@ -1039,7 +1039,7 @@
    "ip_rating": null,
    "release_year": 2021,
    "sdk": "Closed",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "gausium-scrubber-50-pro",
@@ -1061,7 +1061,7 @@
    "ip_rating": null,
    "release_year": 2021,
    "sdk": "Closed",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "richtech-adam",
@@ -1083,7 +1083,7 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": "Closed",
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "apps_key": "beverage-service"
   },
   {
@@ -1106,7 +1106,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Fully open-source: hardware CAD, PowerFlow actuator designs, firmware and a Linux/ROS 2 stack with the AimRT framework, all published on GitHub",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "fourier-n1",
@@ -1128,7 +1128,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Fully open-source: complete hardware blueprints, published BOM, CAD, assembly instructions and base control software on GitHub (FSA 2.0 actuators)",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "kscale-k-bot",
@@ -1138,7 +1138,7 @@
    "category": "humanoid",
    "price_usd_min": 8999,
    "price_usd_max": 8999,
-   "price_note": "K-Scale published a headline price of $8,999 for the first 100 units and took $100 preorders through the manufacturer store. The company shut down in November 2025 after failing to raise funding, cancelled preorders and refunded deposits, so the robot can no longer be purchased. All hardware and software IP was released under open-source licenses on the way out, per press reports.",
+   "price_note": "K-Scale published a headline price of $8,999 for the first 100 units and took $100 preorders through the manufacturer store. The company shut down in November 2025 after failing to raise funding, cancelled preorders and refunded deposits, so the robot can no longer be purchased. All hardware and software IP was released under open-source licenses on the way out.",
    "availability": "not-for-sale",
    "height_cm": 140,
    "weight_kg": 35,
@@ -1150,7 +1150,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Fully open-source: mechanical CAD, Rust-based K-OS operating system and sim-to-real ML stack on GitHub; entire IP open-sourced after the company wound down",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "berkeley-humanoid-lite",
@@ -1172,7 +1172,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Fully open-source: 3D-printable hardware design, published BOM, embedded code and RL training/deployment framework on GitHub",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "astribot-s1",
@@ -1182,7 +1182,7 @@
    "category": "humanoid",
    "price_usd_min": 50000,
    "price_usd_max": 100000,
-   "price_note": "Astribot has not published an official list price for the S1. Distributor listings put research editions near $50,000 and commercial units around $70,000, while press reports estimate early commercial pricing up to roughly $100,000 or more. Commercial deliveries began in China in late 2025 with international rollout during 2026; treat the range as an estimate pending a formal offer.",
+   "price_note": "Astribot has not published an official list price for the S1. Distributor listings put research editions near $50,000-$70,000 (Chinese industry reports cite roughly RMB 500,000) and commercial units around $96,000-$99,000, while press reports estimate early commercial pricing up to roughly $100,000 or more. Commercial deliveries began in China in late 2025 with international rollout during 2026; treat the range as an estimate pending a formal offer.",
    "availability": "enterprise-only",
    "height_cm": 170,
    "weight_kg": 90,
@@ -1194,7 +1194,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Proprietary DuoCore dual-system AI architecture with imitation-learning pipeline; enterprise developer access via Astribot",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "limx-oli",
@@ -1204,7 +1204,7 @@
    "category": "humanoid",
    "price_usd_min": 21800,
    "price_usd_max": null,
-   "price_note": "Officially launched in August 2025 with base pricing from RMB 158,000 (about $21,800) per manufacturer announcement and press reports. Higher trims (EDU and above) with onboard NVIDIA Orin compute cost more; final configuration pricing comes via quotation. One of the few full-size humanoids with a published entry price.",
+   "price_note": "Officially launched in August 2025 with base pricing from RMB 158,000 (about $21,800) per manufacturer announcement and press reports. Higher trims (EDU and above) with onboard NVIDIA Orin compute cost more; final configuration pricing comes via quotation, and current reseller terms require a full deposit before order confirmation. One of the few full-size humanoids with a published entry price.",
    "availability": "for-sale",
    "height_cm": 165,
    "weight_kg": 55,
@@ -1216,7 +1216,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Open Python SDK with modular hardware/software architecture; supports teleoperation, imitation learning and onboard-LLM autonomy (NVIDIA Orin on EDU trims)",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "magicbot-z1",
@@ -1238,7 +1238,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Developer platform for research and education with secondary-development support; optional 11-DOF dexterous hands, 3D LiDAR and voice interaction",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "tiangong-walker",
@@ -1248,7 +1248,7 @@
    "category": "humanoid",
    "price_usd_min": 41000,
    "price_usd_max": 43000,
-   "price_note": "The TianGong Walker consumer/research edition opened for preorders in 2025 at RMB 299,000, roughly $41,000-43,000 depending on exchange rate, per press reports. The underlying Tien Kung platform is state-backed and open: robot description assets and engineering documentation are published for research and secondary development. Enterprise configurations are quoted separately.",
+   "price_note": "The TianGong Walker consumer/research edition opened for preorders in 2025 at RMB 299,000, roughly $41,000-43,000 depending on exchange rate. The underlying Tien Kung platform is state-backed and open: robot description assets and engineering documentation are published for research and secondary development. Enterprise configurations are quoted separately.",
    "availability": "for-sale",
    "height_cm": 170,
    "weight_kg": null,
@@ -1260,7 +1260,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Open platform: published URDF/design assets and engineering docs (Tien Kung Open Source) plus the Huisi Kaiwu embodied-AI software platform",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "engineai-se01",
@@ -1270,7 +1270,7 @@
    "category": "humanoid",
    "price_usd_min": 20500,
    "price_usd_max": 54000,
-   "price_note": "EngineAI executives indicated a target price of RMB 150,000-200,000 (about $20,500-27,400) when global sales opened in late 2024, per press reports. Distributor listings for export configurations quote substantially higher, up to roughly $54,000. The spread reflects commercial vs education editions and regional markups.",
+   "price_note": "EngineAI executives indicated a target price of RMB 150,000-200,000 (about $20,500-27,400) when global sales opened in late 2024. Distributor listings for export configurations quote substantially higher, up to roughly $54,000. The spread reflects commercial vs education editions and regional markups.",
    "availability": "for-sale",
    "height_cm": 170,
    "weight_kg": 55,
@@ -1282,7 +1282,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Developer SDK with commercial and education editions; end-to-end neural motion control (RL + imitation learning), 360-degree LiDAR and depth cameras",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "sanctuary-phoenix",
@@ -1292,7 +1292,7 @@
    "category": "humanoid",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Sanctuary AI has never published a price for Phoenix and does not sell units outright; the robot is deployed through enterprise pilot programs in manufacturing settings. Press reports place comparable research-grade humanoids in the six-figure range, but no official figure exists for Phoenix. Any specific number would be speculation.",
+   "price_note": "Sanctuary AI has never published a price for Phoenix and does not sell the humanoid outright; the robot has been deployed through enterprise pilot programs in manufacturing settings. In mid-2026 Sanctuary shifted its commercial focus toward licensing its \"Physical AI\" software for other companies' industrial robot hardware, while Phoenix's hydraulic hands remain in development. Press reports place comparable research-grade humanoids in the six-figure range, but no official figure exists for Phoenix.",
    "availability": "enterprise-only",
    "height_cm": 170,
    "weight_kg": 70,
@@ -1304,7 +1304,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": "Proprietary Carbon AI cognitive control system (natural-language-to-action with auditable reasoning); no public SDK — hydraulic hands with 21 DOF and near-human tactile sensing",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "neura-4ne-1",
@@ -1314,7 +1314,7 @@
    "category": "humanoid",
    "price_usd_min": 65000,
    "price_usd_max": 105000,
-   "price_note": "Neura announced transparent pricing at CES 2026: the industrial 4NE1 Gen 3.5 lists at EUR 98,000 (about $105,000), dropping to around EUR 60,000 (about $65,000) at fleet scale, per press reports. A smaller 4NE1 Mini is offered at EUR 19,999 for home and research use. Gen 3.5 deliveries are slated for late 2026, so current orders are preorders.",
+   "price_note": "Neura announced transparent pricing at CES 2026: the industrial 4NE1 Gen 3.5 lists at EUR 98,000 (about $105,000), dropping to around EUR 60,000 (about $65,000) at fleet scale. A smaller 4NE1 Mini is offered at EUR 19,999 for home and research use. Gen 3.5 deliveries are slated for late 2026, so current orders are preorders.",
    "availability": "preorder",
    "height_cm": 180,
    "weight_kg": 80,
@@ -1326,7 +1326,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": "Neuraverse fleet-learning OS and app ecosystem; NVIDIA Thor compute with Isaac GR00T integration, modular exchangeable forearms and hands",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "pudu-d9",
@@ -1336,7 +1336,7 @@
    "category": "humanoid",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Pudu does not publicly disclose D9 pricing; units are quoted individually through the manufacturer and distributor listings on a request basis. No credible published figures exist as of August 2026, so the price is listed as unavailable rather than estimated. Pudu's commercial service-robot channel suggests enterprise-oriented sales.",
+   "price_note": "Pudu does not publicly disclose D9 pricing; units are quoted individually through the manufacturer and distributor listings on a request basis. No credible published figures exist, so the price is listed as unavailable rather than estimated.",
    "availability": "enterprise-only",
    "height_cm": 170,
    "weight_kg": 65,
@@ -1348,7 +1348,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Proprietary stack with 275 TOPS onboard compute, real-time 3D semantic mapping and DH11 11-DOF tactile dexterous hands; developer access via Pudu",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "unitree-go2-w",
@@ -1356,9 +1356,9 @@
    "maker": "Unitree Robotics",
    "country": "China",
    "category": "quadruped",
-   "price_usd_min": 13999,
-   "price_usd_max": 23999,
-   "price_note": "The wheeled Go2-W is not sold on Unitree's consumer store; pricing comes from US resellers and distributor listings. Base configurations start around $13,999, while higher-tier Smart/Ultimate/Inspection and enterprise (ENT) builds run roughly $20,700-24,000. A mid-2026 price cut brought the top enterprise variant down to about $23,999.",
+   "price_usd_min": 13000,
+   "price_usd_max": 32299,
+   "price_note": "The wheeled Go2-W is not sold on Unitree's consumer store; pricing comes from US resellers and distributor listings. Base configurations start around $13,000-14,625, while Smart/Ultimate/enterprise-tier builds run higher, up to about $32,299 for the top bundled Inspection Package (thermal imaging, stabilized gimbal, compute dock). Distributor pricing tiers have shifted through 2026 as enterprise configurations were reorganized.",
    "availability": "for-sale",
    "height_cm": 50,
    "weight_kg": 18,
@@ -1370,7 +1370,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Unitree SDK2 / ROS 2",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "unitree-b2-w",
@@ -1380,7 +1380,7 @@
    "category": "quadruped",
    "price_usd_min": 88900,
    "price_usd_max": 100000,
-   "price_note": "US resellers list the industrial B2-W at roughly $88,900-100,000 depending on the sensor and compute configuration. European distributor listings start lower, from about EUR 58,800 before options. Unitree itself quotes B2-series pricing per project rather than publishing a list price.",
+   "price_note": "Unitree's own store lists the industrial B2-W at $100,000 (marked \"contact sales\" for a final quote), matching the high end of US reseller pricing; sale-priced US listings start around $88,900 depending on sensor and compute configuration. European distributor listings start lower, from about EUR 58,800 before options.",
    "availability": "for-sale",
    "height_cm": 76,
    "weight_kg": 75,
@@ -1392,7 +1392,7 @@
    "ip_rating": "IP67",
    "release_year": 2024,
    "sdk": "Unitree SDK2 / ROS 2",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "deep-robotics-x20",
@@ -1402,7 +1402,7 @@
    "category": "quadruped",
    "price_usd_min": 20000,
    "price_usd_max": null,
-   "price_note": "The X20 has been superseded by the X30 ($75,000 at US distributor listings) and is labeled discontinued on the US site, though it remains on the global catalog. Press price guides cite roughly $20,000 for remaining X20 units; original enterprise deployments were quoted higher depending on LiDAR, thermal and 5G options. Treat this as an estimate - the manufacturer sells by quotation only.",
+   "price_note": "The X20 has been superseded by the X30 (roughly $65,000-75,000 at US distributor listings) and is labeled discontinued on the US site, though it remains on the global catalog. Press price guides cite roughly $20,000 for remaining X20 units; original enterprise deployments were quoted higher depending on LiDAR, thermal and 5G options. Treat this as an estimate - the manufacturer sells by quotation only.",
    "availability": "enterprise-only",
    "height_cm": 70,
    "weight_kg": 53,
@@ -1414,7 +1414,7 @@
    "ip_rating": "IP66",
    "release_year": 2021,
    "sdk": "Deep Robotics SDK, ROS support",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "deep-robotics-lynx-m20",
@@ -1424,7 +1424,7 @@
    "category": "quadruped",
    "price_usd_min": 59995,
    "price_usd_max": 61200,
-   "price_note": "US distributor listings price the wheel-legged Lynx M20S at $59,995 and the M20 Pro (dual 96-line LiDAR, autonomous charging) at about $61,200. These are offer prices for standard configurations; payload accessories and gimbals are extra. The M20 won a CES 2026 Innovation Award, and demand keeps street prices close to list.",
+   "price_note": "US distributor listings price the wheel-legged Lynx M20S at $59,995 and the M20 Pro (dual 96-line LiDAR, autonomous charging) at about $61,200 - a figure also confirmed directly on Deep Robotics' own US shop. These are offer prices for standard configurations; payload accessories and gimbals are extra. The M20 won a CES 2026 Innovation Award.",
    "availability": "for-sale",
    "height_cm": null,
    "weight_kg": 33,
@@ -1436,7 +1436,7 @@
    "ip_rating": "IP66",
    "release_year": 2025,
    "sdk": "Deep Robotics SDK, ROS support",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "deep-robotics-lynx-s10",
@@ -1446,7 +1446,7 @@
    "category": "quadruped",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "No public price. Deep Robotics has not listed the S10, and its new Japan distributor ELSA quotes it by inquiry only. The S10 is a lighter wheel-legged sibling of the Lynx M20 (about $60,000 in US distributor listings) at roughly 40% less weight, so treat any number below that as a guess until a quote surfaces.",
+   "price_note": "No public price. Deep Robotics has not listed the S10 on its own site, and its Japan distributor quotes it by inquiry only. A product-launch report described pricing \"in the tens of thousands of yuan\" (well below the Lynx M20's ~$60,000 US distributor price), but this figure is unverified by any distributor or manufacturer quote, so treat any number as a guess until a firm quote surfaces.",
    "availability": "preorder",
    "height_cm": null,
    "weight_kg": 19,
@@ -1458,7 +1458,7 @@
    "ip_rating": "IP66",
    "release_year": 2026,
    "sdk": "Deep Robotics SDK, ROS support",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "mir-250",
@@ -1466,10 +1466,10 @@
    "maker": "Mobile Industrial Robots (MiR)",
    "country": "Denmark",
    "category": "amr",
-   "price_usd_min": null,
-   "price_usd_max": null,
-   "price_note": "MiR sells exclusively through its distributor network on a request-a-quote basis, and US distributor listings show no public price for the MiR250. Final cost depends heavily on top modules (lifts, conveyors, hooks) and MiR Fleet licensing, so quoted deployments vary widely per site. No verified public figure exists as of August 2026.",
-   "availability": "enterprise-only",
+   "price_usd_min": 64790,
+   "price_usd_max": 64790,
+   "price_note": "MiR sells mostly through request-a-quote distributor engagements, but at least one US distributor now lists a fixed, purchasable price of $64,790 for the base MiR250 unit. Most other distributors still show \"request a quote\" only, and final deployed cost depends heavily on top modules (lifts, conveyors, hooks) and MiR Fleet licensing, so treat this figure as an anchor for the base unit rather than a universal price.",
+   "availability": "for-sale",
    "height_cm": 30,
    "weight_kg": 97,
    "dof": null,
@@ -1480,7 +1480,7 @@
    "ip_rating": "IP52",
    "release_year": 2020,
    "sdk": "MiR Fleet software, REST API",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "locus-origin",
@@ -1490,7 +1490,7 @@
    "category": "amr",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Locus does not sell Origin units outright - it is deployed under a Robots-as-a-Service model with hardware, LocusOne software, integration and support bundled into the subscription. Press reports place typical RaaS rates at roughly $2,000-4,000 per robot per month on 12-36 month terms. Equivalent hardware value is estimated by press at $25,000-50,000 per unit.",
+   "price_note": "Locus does not sell Origin units outright - it is deployed under a Robots-as-a-Service model with hardware, software, integration and support bundled into the subscription. Press reports place typical RaaS rates at roughly $2,000-4,000 per robot per month on 12-36 month terms. Equivalent hardware value is estimated by press at $25,000-50,000 per unit.",
    "availability": "enterprise-only",
    "height_cm": 147,
    "weight_kg": 45,
@@ -1502,7 +1502,7 @@
    "ip_rating": null,
    "release_year": 2021,
    "sdk": "LocusOne fleet platform",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "geekplus-p1200r",
@@ -1512,7 +1512,7 @@
    "category": "amr",
    "price_usd_min": 35000,
    "price_usd_max": 66000,
-   "price_note": "Geek+ sells its goods-to-person P-series project-based, so no official list price exists for the flagship P1200R. Distributor listings for P-series units run from about $35,000 for the mid-range P800R up to the mid-$60,000s, with the 1,200 kg P1200R at the upper end - treat the range as an estimate. Full system cost also includes the Geek+ RMS fleet software and workstations.",
+   "price_note": "Geek+ sells its goods-to-person P-series project-based, so no official list price exists for the flagship P1200R. Distributor listings for P-series units run from about $35,000 for the mid-range P800R up to the mid-$60,000s, with the 1,200 kg P1200R at the upper end - treat the range as an estimate. Full system cost also includes fleet software and workstations.",
    "availability": "enterprise-only",
    "height_cm": null,
    "weight_kg": null,
@@ -1524,7 +1524,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": "Geek+ Robot Management System (RMS)",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "agilox-one",
@@ -1534,7 +1534,7 @@
    "category": "amr",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "AGILOX publishes no list price for the ONE, and neither do its distributors: the Swiss dealer webshop renders the price as \"EUR --,--\" behind a registration wall, and the DACH, Nordic and US resellers are all quote-only. AGILOX does publish the structure of its rental offer - a fixed base fee plus a variable fee per operating hour over 12-60 months, alongside short-term rent of 1-12 months and leasing through partners - but discloses no rate for any of them. No published price, rental rate or procurement figure for the ONE exists as of August 2026.",
+   "price_note": "AGILOX publishes no list price for the ONE, and neither do its distributors, all of which are quote-only. AGILOX does publish the structure of its rental offer - a fixed base fee plus a variable fee per operating hour over 12-60 months, alongside short-term rent and leasing through partners - but discloses no rate for any of them. No published price, rental rate or procurement figure for the ONE exists.",
    "availability": "enterprise-only",
    "height_cm": 187,
    "weight_kg": 400,
@@ -1546,7 +1546,7 @@
    "ip_rating": null,
    "release_year": 2017,
    "sdk": "AGILOX X-Swarm intelligence",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "pudu-t300",
@@ -1568,7 +1568,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": "PUDU Cloud / Open API",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "german-bionic-apogee",
@@ -1578,7 +1578,7 @@
    "category": "exoskeleton",
    "price_usd_min": 9900,
    "price_usd_max": null,
-   "price_note": "German Bionic does not publish a list price for the Apogee; press reports cite $9,900 for the closely related Apogee+ variant, which is the best public anchor. Most corporate deployments run on rental terms of roughly GBP 350 per unit per month plus a one-off vest purchase. The newer Apogee ULTRA (36 kg support) is in preorder with undisclosed pricing. Provides up to 30 kg of active lifting support.",
+   "price_note": "German Bionic does not publish a list price for the Apogee; press reports cite $9,900 for the closely related Apogee+ variant, which is the best public anchor. Most corporate deployments run on rental terms of roughly GBP 350 per unit per month plus a one-off vest purchase. The newer Apogee ULTRA (36 kg support) is in preorder with undisclosed pricing.",
    "availability": "for-sale",
    "height_cm": null,
    "weight_kg": 7.5,
@@ -1590,7 +1590,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": "Closed (German Bionic IO)",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "ekso-evo",
@@ -1612,7 +1612,7 @@
    "ip_rating": null,
    "release_year": 2020,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "ottobock-paexo-back",
@@ -1622,7 +1622,7 @@
    "category": "exoskeleton",
    "price_usd_min": 6400,
    "price_usd_max": 6400,
-   "price_note": "Press reports cite a list price of EUR 5,900 (about $6,400) for the passive Paexo Back, with leasing from EUR 69 per month via the manufacturer. Purely mechanical design that relieves the lower back by up to 25 kg during lifting, with no battery or charging. Sold through Ottobock's industrial (Bionic Exoskeletons) channel and distributors.",
+   "price_note": "Press reports cite a list price of EUR 5,900 (about $6,400) for the passive Paexo Back, with leasing from EUR 69 per month via the manufacturer. Purely mechanical design that relieves the lower back by up to 25 kg during lifting, with no battery or charging. Sold through Ottobock's industrial channel and distributors.",
    "availability": "for-sale",
    "height_cm": null,
    "weight_kg": 4.5,
@@ -1634,7 +1634,7 @@
    "ip_rating": null,
    "release_year": 2019,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "herowear-apex-2",
@@ -1656,7 +1656,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "byd-xiao-di",
@@ -1678,7 +1678,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "agibot-a2-ultra",
@@ -1699,7 +1699,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": "AimMaster control client; Linksoul platform for enterprise task customization. No open public SDK terms published.",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "fourier-gr-1",
@@ -1720,7 +1720,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "figure-02",
@@ -1741,7 +1741,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "leju-kuavo",
@@ -1751,7 +1751,7 @@
    "category": "humanoid",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Leju has not published a unit price for KUAVO; research-edition units are quoted directly to universities, labs and industrial customers. Chinese press describes early deliveries as costing several hundred thousand yuan each, but that is commentary rather than a listed offer, so no price is shown.",
+   "price_note": "Leju has not published a per-unit list price for KUAVO; research-edition units are quoted directly to universities, labs and industrial customers. Leju's own ChiNext IPO prospectus (accepted May 2026) discloses that the Kuavo series' average selling price fell from about RMB 413,900 in 2024 to RMB 308,100 in 2025 (roughly $57,500 to $42,800) - a real disclosed average across the whole product line, not a specific offer for this model, so no single price is shown here.",
    "availability": "enterprise-only",
    "height_cm": 166,
    "weight_kg": null,
@@ -1762,7 +1762,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Open developer stack: public source repository (kuavo_opensource), SDK, documentation, simulation platform and 20+ demo cases; open embodied-AI manipulation datasets.",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "robot-era-star1",
@@ -1783,7 +1783,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "rainbow-robotics-rb-y1",
@@ -1804,7 +1804,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "rby1-sdk - official Python and C++ SDK, Apache 2.0, on GitHub",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "neura-4ne1-mini",
@@ -1814,7 +1814,7 @@
    "category": "humanoid",
    "price_usd_min": 23100,
    "price_usd_max": 34650,
-   "price_note": "NEURA lists the Mini on its own reservation store at EUR 19,999 (Standard) and EUR 29,999 (Pro), about $23,100 to $34,650 at ~1.155 USD/EUR. A refundable EUR 100 reservation fee is credited against the purchase; the Pro premium buys 12-DoF dexterous hands, the C++ SDK, digital-twin access and teleoperation. Shipping was announced for April 2026; taxes, shipping and support contracts are excluded.",
+   "price_note": "NEURA lists the Mini on its own reservation store at EUR 19,999 (Standard) and EUR 29,999 (Pro), about $23,100 to $34,650. A refundable EUR 100 reservation fee is credited against the purchase; the Pro premium buys 12-DoF dexterous hands, the C++ SDK, digital-twin access and teleoperation. Shipping was announced for April 2026; taxes, shipping and support contracts are excluded.",
    "availability": "preorder",
    "height_cm": 132,
    "weight_kg": 36,
@@ -1825,7 +1825,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": "Neuraverse OS with NVIDIA Isaac GR00T foundation models; C++ SDK, digital twin and teleoperation in the Pro tier",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "mentee-menteebot-v3",
@@ -1835,7 +1835,7 @@
    "category": "humanoid",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "No price and no sales channel. Mobileye, which agreed to acquire Mentee Robotics in January 2026, expects first on-site customer proof-of-concept deployments in 2026, with series production targeted for 2028. Older press figures around $35,000, and a roughly $20,000 future unit cost, are unconfirmed projections rather than offers, and Mobileye's own release quotes no per-unit number.",
+   "price_note": "No price and no sales channel. Mobileye completed its $900 million acquisition of Mentee Robotics on February 3, 2026, and expects first on-site customer proof-of-concept deployments in 2026, with series production targeted for 2028. Older press figures around $35,000, and a roughly $20,000 future unit cost, are unconfirmed projections rather than offers.",
    "availability": "not-for-sale",
    "height_cm": 175,
    "weight_kg": 70,
@@ -1846,7 +1846,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "clone-alpha",
@@ -1856,7 +1856,7 @@
    "category": "humanoid",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Clone Robotics publishes no price. Its own pre-order page invites reservations for a limited run of 279 units but states no unit price, no deposit and no delivery date. Figures circulating in press and forums run from about $20,000 to over $200,000 and none traces to the manufacturer. No complete Alpha has been publicly demonstrated walking unsupported as of August 2026.",
+   "price_note": "Clone Robotics publishes no price. Its own pre-order page invites reservations for a limited run of 279 units but states no unit price, no deposit and no delivery date. Figures circulating in press and forums run from about $20,000 to over $200,000 and none traces to the manufacturer. No complete Alpha has been publicly demonstrated walking unsupported.",
    "availability": "preorder",
    "height_cm": 180,
    "weight_kg": null,
@@ -1867,7 +1867,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "ai2-robotics-alphabot-2",
@@ -1877,7 +1877,7 @@
    "category": "humanoid",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "AI2 Robotics publishes no list price and sells through enterprise contracts in China. A September 2025 order from a display manufacturer's subsidiary for more than 1,000 robots was reported at close to RMB 500 million, which implies roughly RMB 500,000 (about $69,000 at 7.2 RMB/USD) per unit - but that is an average across three years of deployment at multiple sites, not a purchasable price. A separate press report quoting 'from about $15,000' is unverified and irreconcilable with the order value, so no figure is published here.",
+   "price_note": "AI2 Robotics publishes no list price and sells through enterprise contracts in China. A September 2025 bulk order was reported at close to RMB 500 million for over 1,000 robots, which implies roughly RMB 500,000 (about $69,000) per unit - but that is an average across three years of deployment at multiple sites, not a purchasable price. A separate press report quoting 'from about $15,000' is unverified and irreconcilable with the order value, so no figure is published here.",
    "availability": "enterprise-only",
    "height_cm": null,
    "weight_kg": null,
@@ -1888,7 +1888,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "softbank-whiz",
@@ -1898,7 +1898,7 @@
    "category": "service",
    "price_usd_min": 25000,
    "price_usd_max": 25000,
-   "price_note": "US distributor listings quote $25,000 to buy the Whiz commercial vacuum outright, or robot-as-a-service from about $839/month on a 36-month term (up to ~$1,042/month on shorter terms). SoftBank Robotics itself publishes no price and sells by quote; the subscription bundles hardware, installation, training, software updates and support, while filters, dust bags, brushes and replacement batteries are extra.",
+   "price_note": "US distributor listings quote $25,000 to buy the Whiz commercial vacuum outright, or robot-as-a-service starting around $699/month, with an alternate comparison-table figure of about $1,042/month depending on term length. SoftBank Robotics itself publishes no price and sells by quote; the subscription bundles hardware, installation, training, software updates and support, while filters, dust bags, brushes and replacement batteries are extra.",
    "availability": "for-sale",
    "height_cm": 65.3,
    "weight_kg": 30,
@@ -1909,7 +1909,7 @@
    "ip_rating": null,
    "release_year": 2019,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "pal-robotics-tiago",
@@ -1930,7 +1930,7 @@
    "ip_rating": null,
    "release_year": 2015,
    "sdk": "ROS (Ubuntu LTS, RT Preempt), MoveIt!, ros_control",
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "apps_key": "research-manipulation"
   },
   {
@@ -1952,7 +1952,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Python SDK, ROS 2 Humble, LeRobot (open source)",
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "apps_key": "research-manipulation"
   },
   {
@@ -1974,7 +1974,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "ROS 2 and Python SDK (open source), Stretch AI",
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "apps_key": "research-manipulation"
   },
   {
@@ -1985,7 +1985,7 @@
    "category": "amr",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Boston Dynamics has never published a price for Stretch; it has been sold by quote since commercial availability in 2022, and the announcement itself went out for a yet-to-be-named price. Figures of $300,000-$500,000 circulating online are third-party estimates rather than offers. Announced fleet deals (a $15M DHL Supply Chain pre-order, a $10M NFI order) cover many robots plus deployment and service and cannot be divided into a unit price.",
+   "price_note": "Boston Dynamics has never published a price for Stretch; it has been sold by quote since commercial availability in 2022. Figures of $300,000-$500,000 circulating online are third-party estimates rather than offers. Announced fleet deals (a $15M DHL Supply Chain pre-order, a $10M NFI order) cover many robots plus deployment and service and cannot be divided into a unit price.",
    "availability": "enterprise-only",
    "height_cm": null,
    "weight_kg": 1202,
@@ -1996,7 +1996,7 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "neura-lara-5",
@@ -2006,7 +2006,7 @@
    "category": "industrial-arm",
    "price_usd_min": 21800,
    "price_usd_max": 21800,
-   "price_note": "European distributor listings put the LARA 5 at EUR 18,900 excl. VAT (about $21,800), with the wider family running EUR 16,500 for LARA 3 to EUR 26,900 for LARA 15 (roughly $19,100-$31,100). The price covers robot, control box and teach panel; gripper, tooling, integration and VAT are extra. NEURA itself quotes on request, and the distributor pages carrying these figures now show the products as unavailable - treat the numbers as a published anchor rather than a live offer.",
+   "price_note": "European distributor listings put the LARA 5 at EUR 18,900 excl. VAT (about $21,800), with the wider family running EUR 16,500 for LARA 3 to EUR 26,900 for LARA 15. The price covers robot, control box and teach panel; gripper, tooling, integration and VAT are extra. NEURA itself quotes on request.",
    "availability": "for-sale",
    "height_cm": null,
    "weight_kg": 26,
@@ -2020,7 +2020,7 @@
    "ip_rating": "IP66",
    "release_year": 2021,
    "sdk": "NeuraPy API, NR easy drag-and-drop GUI; EtherCAT/IO-Link, Ethernet/IP, PROFINET, Modbus TCP/RTU",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "neura-maira-s",
@@ -2030,7 +2030,7 @@
    "category": "industrial-arm",
    "price_usd_min": 43300,
    "price_usd_max": 43300,
-   "price_note": "European distributor listings show MAiRA S at EUR 37,500 excl. VAT (about $43,300) and MAiRA M at EUR 39,500 (about $45,600); NEURA does not publish MAiRA pricing itself and sells on quotation. The figure excludes VAT, gripper, optional force-torque sensor, integration and support. The distributor pages carrying these figures now show the products as unavailable, so treat them as a published anchor rather than a live offer.",
+   "price_note": "European distributor listings show MAiRA S at EUR 37,500 excl. VAT (about $43,300) and MAiRA M at EUR 39,500 (about $45,600); NEURA does not publish MAiRA pricing itself and sells on quotation. The figure excludes VAT, gripper, optional force-torque sensor, integration and support.",
    "availability": "for-sale",
    "height_cm": null,
    "weight_kg": 51,
@@ -2043,7 +2043,7 @@
    "ip_rating": "IP65",
    "release_year": 2021,
    "sdk": "Python NeuraPy API, NR easy GUI, optional low-level controller/sensor access; GPIO, Modbus TCP/RTU",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "shadow-dexterous-hand",
@@ -2064,7 +2064,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": "Full ROS integration (EtherCAT stack), Python/C++ API, Gazebo model; source and schematics under NDA",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "unitree-a2",
@@ -2085,7 +2085,7 @@
    "ip_rating": "IP56",
    "release_year": 2025,
    "sdk": "Unitree secondary development (high- and low-level), ROS 2, NVIDIA Isaac Sim support",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "wandercraft-atalante-x",
@@ -2095,7 +2095,7 @@
    "category": "exoskeleton",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Wandercraft publishes no list price. Atalante X is a medical device sold to rehabilitation institutions under contract, and in France through central public purchasing agencies with multi-year instalment options. Press reports around the US launch put European hospital units at roughly $176,000 each (about EUR 150,000) - a reported figure rather than a quoted price, and it says nothing about what training, service or financing are included.",
+   "price_note": "Wandercraft publishes no list price. Atalante X is a medical device sold to rehabilitation institutions under contract, and in France through central public purchasing agencies with multi-year instalment options. Press reports around the US launch put European hospital units at roughly $176,000 each (about EUR 150,000) - a reported figure rather than a quoted price.",
    "availability": "enterprise-only",
    "height_cm": 168,
    "weight_kg": 80,
@@ -2106,7 +2106,7 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "agibot-a2-lite",
@@ -2127,7 +2127,49 @@
    "ip_rating": "IP5X (joint modules)",
    "release_year": null,
    "sdk": "AgiBot Botnet software support; motion development and swarm control tools",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
+  },
+  {
+   "slug": "agibot-x2",
+   "model": "AgiBot X2",
+   "maker": "Agibot (Zhiyuan Robotics)",
+   "country": "China",
+   "category": "humanoid",
+   "price_usd_min": 24240,
+   "price_usd_max": 24240,
+   "price_note": "Listed at $24,240 on AgiBot's own global online store, quoted directly in USD, covering the robot, battery, charger, remote controller and microphone. Shipping is quoted separately at roughly $500-$3,000 depending on destination, and customs duties and taxes are the buyer's responsibility. Sits between the open-source X1 developer kit and the full-size A2 series in AgiBot's lineup.",
+   "availability": "for-sale",
+   "height_cm": 131,
+   "weight_kg": 35,
+   "dof": 25,
+   "battery_hours": 2,
+   "payload_kg": 3,
+   "speed_ms": 1.8,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": null,
+   "as_of": "2026-09"
+  },
+  {
+   "slug": "agibot-x2-ultra",
+   "model": "AgiBot X2 Ultra",
+   "maker": "Agibot (Zhiyuan Robotics)",
+   "country": "China",
+   "category": "humanoid",
+   "price_usd_min": null,
+   "price_usd_max": null,
+   "price_note": "AgiBot publishes no price for the X2 Ultra: its own store lists the robot as contact-sales only, supplied through enterprise agreements. It adds 3D LiDAR, an RGB-D camera and 5 more degrees of freedom over the base X2, which does carry a public $24,240 price.",
+   "availability": "enterprise-only",
+   "height_cm": 131,
+   "weight_kg": 39,
+   "dof": 30,
+   "battery_hours": 2,
+   "payload_kg": 3,
+   "speed_ms": 1.8,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": null,
+   "as_of": "2026-09"
   },
   {
    "slug": "limx-tron-1",
@@ -2137,7 +2179,7 @@
    "category": "humanoid",
    "price_usd_min": 15000,
    "price_usd_max": 25000,
-   "price_note": "LimX Dynamics' own store lists TRON 1 Standard Edition at $15,000 and the Education Edition at $25,000, both purchasable directly. The Standard package includes the robot body, three interchangeable foot modules (point-foot, sole, wheeled), battery, charging dock, handheld controller, haulage rope and roll cage; the SDK and secondary-development toolchain come only with the $25,000 Education Edition. Shipping, duties and dexterous hands or arms are not included.",
+   "price_note": "LimX Dynamics' own store lists TRON 1 Standard Edition at $15,000 and the Education Edition at $25,000, both purchasable directly. The Standard package includes the robot body, three interchangeable foot modules, battery, charging dock, handheld controller, haulage rope and roll cage; the SDK and secondary-development toolchain come only with the $25,000 Education Edition.",
    "availability": "for-sale",
    "height_cm": 84.5,
    "weight_kg": 20,
@@ -2148,7 +2190,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Python and C++ SDK with open hardware interface (Education Edition only)",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "limx-tron-2",
@@ -2156,9 +2198,9 @@
    "maker": "LimX Dynamics",
    "country": "China",
    "category": "humanoid",
-   "price_usd_min": 20000,
+   "price_usd_min": 7000,
    "price_usd_max": 25000,
-   "price_note": "At the December 2025 launch LimX Dynamics stated $20,000 for the dual-arm EDU configuration and $25,000 for the full 3-in-1 EDU kit (dual-arm, bipedal and wheeled-leg modules); orders run through the manufacturer's consultation form rather than its self-serve store. US resellers list the 3-in-1 EDU kit substantially higher, around $33,000, with freight and customs quoted separately. Lower figures circulating for a stripped base configuration are unconfirmed and not used here.",
+   "price_note": "At its December 2025 launch, LimX Dynamics priced the base stationary dual-arm TRON 2 configuration at 49,800 CNY (about $7,000), open for pre-order on the manufacturer's own site and independently confirmed by multiple outlets covering the launch. EDU configurations add $20,000 for the dual-arm EDU kit and $25,000 for the full 3-in-1 EDU kit (dual-arm, bipedal and wheeled-leg modules). US resellers list the 3-in-1 EDU kit substantially higher, around $33,000, with freight and customs quoted separately.",
    "availability": "for-sale",
    "height_cm": null,
    "weight_kg": null,
@@ -2169,7 +2211,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Python and C++; ROS 1 / ROS 2; Isaac Sim, MuJoCo and Gazebo simulation support",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "booster-k1",
@@ -2179,7 +2221,7 @@
    "category": "humanoid",
    "price_usd_min": 5999,
    "price_usd_max": 5999,
-   "price_note": "Booster Robotics announced the K1 Geek Edition at $5,999 at its October 2025 launch, quoted in USD by the maker, with a $4,999 promotional price during the launch window only. The Geek price covers the 22-DoF robot with 48 TOPS compute, a 2Ah battery (about 30 minutes of runtime), carrying case and a 3-month warranty. The Education (117 TOPS) and Professional (200 TOPS) editions add a 5Ah battery and a 1-year warranty but carry no publicly listed price.",
+   "price_note": "Booster Robotics announced the K1 Geek Edition at $5,999 at its October 2025 launch, quoted in USD by the maker, with a $4,999 promotional price during the launch window only. The Geek price covers the 22-DoF robot with 48 TOPS compute, a 2Ah battery, carrying case and a 3-month warranty. The Education (117 TOPS) and Professional (200 TOPS) editions add a 5Ah battery and a 1-year warranty but carry no publicly listed price.",
    "availability": "for-sale",
    "height_cm": 95,
    "weight_kg": 19.5,
@@ -2190,7 +2232,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Secondary development supported; upgradeable firmware, Gigabit Ethernet expansion",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "agibot-d1-ultra",
@@ -2211,7 +2253,7 @@
    "ip_rating": "IP54",
    "release_year": null,
    "sdk": "Secondary development supported, with an embedded reinforcement-learning locomotion stack",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "unitree-as2",
@@ -2221,7 +2263,7 @@
    "category": "quadruped",
    "price_usd_min": 3100,
    "price_usd_max": 4650,
-   "price_note": "Unitree's own store checkout prices the As2 Air at $3,100 and the As2 Pro at $4,650; the As2 EDU carries Unitree's $100,000 contact-sales placeholder rather than a real price and is excluded from this range. Prices exclude shipping, duties and optional sensor payloads, and the Air variant is currently backordered. Press reports quoting a higher entry price refer to industrial configurations.",
+   "price_note": "Unitree's own store checkout prices the As2 Air at $3,100 and the As2 Pro at $4,650; the As2 EDU carries Unitree's $100,000 contact-sales placeholder rather than a real price and is excluded from this range. Prices exclude shipping, duties and optional sensor payloads, and the Air variant is currently backordered.",
    "availability": "for-sale",
    "height_cm": null,
    "weight_kg": 18,
@@ -2232,7 +2274,7 @@
    "ip_rating": "IP54",
    "release_year": 2026,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "unitree-z1",
@@ -2254,7 +2296,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": "C++/Python SDK over Ethernet with position and force control; Ubuntu host, ROS support",
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "hello-robot-stretch-4",
@@ -2264,7 +2306,7 @@
    "category": "service",
    "price_usd_min": 29950,
    "price_usd_max": 29950,
-   "price_note": "Published at $29,950 on Hello Robot's own purchase page, up from $24,950 for Stretch 3. The price includes the compliant gripper, battery and ballast, wall power supply, Aruco tag kit, gamepad and pistol teleop controllers, tools and cables, with a 30-day return window and a 1-year warranty. Add-ons are priced separately: docking station $1,495, parallel gripper $1,495, NVIDIA Jetson Orin NX $2,495, spare battery and ballast $1,495, 3-year extended warranty $2,495. Typical lead time is 2-4 weeks.",
+   "price_note": "Published at $29,950 on Hello Robot's own purchase page, up from $24,950 for Stretch 3. The price includes the compliant gripper, battery and ballast, wall power supply, Aruco tag kit, gamepad and pistol teleop controllers, tools and cables, with a 30-day return window and a 1-year warranty. Add-ons are priced separately.",
    "availability": "for-sale",
    "height_cm": 160,
    "weight_kg": 46,
@@ -2275,7 +2317,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": "Open-source ROS 2 and Python SDK; 3D SLAM navigation and data-collection tooling",
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "apps_key": "research-manipulation"
   },
   {
@@ -2286,7 +2328,7 @@
    "category": "humanoid",
    "price_usd_min": 16500,
    "price_usd_max": 136500,
-   "price_note": "Preorders open on JD.com (official channel) with a 3,000 CNY deposit: 119,800 CNY (~$16,500) for the semi-torso U1 Lite, up to 880,000/990,000 CNY (~$121,000/$136,500) for the flagship full-body U1 Ultra (female/male). A mid-tier U1 Pro is also listed without a confirmed public price. Over 13,000 units reserved as of the June 30, 2026 launch event; first deliveries due no later than September 15, 2026, so nobody has one in hand yet.",
+   "price_note": "Preorders open on JD.com (official channel) with a 3,000 CNY deposit: 119,800 CNY (~$16,500) for the semi-torso U1 Lite, 169,800 CNY (~$24,000) for the mid-tier U1 Pro, and up to 880,000/990,000 CNY (~$121,000/$136,500) for the flagship full-body U1 Ultra (female/male). Over 13,000 units reserved as of the June 30, 2026 launch event; first deliveries due no later than September 15, 2026, so nobody has one in hand yet.",
    "availability": "preorder",
    "height_cm": 183,
    "weight_kg": 42,
@@ -2297,7 +2339,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "pudu-kettybot-pro",
@@ -2307,7 +2349,7 @@
    "category": "service",
    "price_usd_min": 13995,
    "price_usd_max": 14000,
-   "price_note": "Authorized US resellers publish an outright purchase price of $13,995-$14,000, covering the robot, first-year software and a one-year warranty; freight, on-site mapping and staff training are quoted separately. The same resellers offer it on subscription from $395/month.",
+   "price_note": "Authorized US resellers publish an outright purchase price of $13,995-$14,000, covering the robot, first-year software and a one-year warranty; freight, on-site mapping and staff training are quoted separately. The same resellers now offer it on subscription from $479/month.",
    "availability": "for-sale",
    "height_cm": 112,
    "weight_kg": 38,
@@ -2318,7 +2360,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "pudu-pudubot-2",
@@ -2339,7 +2381,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "pudu-holabot",
@@ -2360,7 +2402,7 @@
    "ip_rating": "IPX5 (inner cabin)",
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "relay-robotics-relay",
@@ -2381,7 +2423,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "bear-robotics-servi-lift",
@@ -2402,7 +2444,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "lg-cloi-servebot",
@@ -2423,7 +2465,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "yunji-run",
@@ -2433,7 +2475,7 @@
    "category": "service",
    "price_usd_min": 1820,
    "price_usd_max": 3030,
-   "price_note": "Yunji's Hong Kong IPO prospectus discloses an actual 2024 average selling price of RMB 13,100 for the RUN delivery robot - about $1,820 at 7.2 RMB/USD - and Chinese retail listings have appeared around RMB 21,800 (~$3,030). The lower figure is a disclosed average realised price to hotel customers rather than a list price a buyer can take, so the range spans both. For context, the same filing puts the multi-function UP model at RMB 22,300 (~$3,100), and both prices fell sharply from RMB 23,200 and RMB 54,200 in 2022.",
+   "price_note": "Yunji's Hong Kong IPO prospectus discloses an actual 2024 average selling price of RMB 13,100 for the RUN delivery robot - about $1,820 - and Chinese retail listings have appeared around RMB 21,800 (~$3,030). The lower figure is a disclosed average realised price to hotel customers rather than a list price a buyer can take, so the range spans both. Both prices fell sharply from RMB 23,200 in 2022.",
    "availability": "for-sale",
    "height_cm": 90,
    "weight_kg": null,
@@ -2444,7 +2486,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "miso-flippy-fry-station",
@@ -2454,7 +2496,7 @@
    "category": "service",
    "price_usd_min": null,
    "price_usd_max": null,
-   "price_note": "Sold only as robot-as-a-service at $5,400 per month with no upfront cost; the fee covers hardware, software, warranty, preventive maintenance and 24/7 bilingual support, while POS integration and extended analytics are paid add-ons. No outright purchase price has ever been published, so no purchase figure is shown here. For reference, the previous-generation Flippy 2 was offered at $3,500 per month plus an $11,000 installation fee.",
+   "price_note": "Sold only as robot-as-a-service at $5,400 per month with no upfront cost; the fee covers hardware, software, warranty, preventive maintenance and 24/7 bilingual support, while POS integration and extended analytics are paid add-ons. No outright purchase price has ever been published. For reference, the previous-generation Flippy 2 was offered at $3,500 per month plus an $11,000 installation fee.",
    "availability": "enterprise-only",
    "height_cm": null,
    "weight_kg": null,
@@ -2465,7 +2507,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "apps_key": "food-prep"
   },
   {
@@ -2487,7 +2529,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "apps_key": "food-prep"
   },
   {
@@ -2498,7 +2540,7 @@
    "category": "service",
    "price_usd_min": 23800,
    "price_usd_max": 29500,
-   "price_note": "US distributor listings price the bare robot at $23,800, with the auto-charging dock a separate $1,000 accessory and the bundle with the enhanced workstation listed from $29,500. Subscription is offered from $989 per month on a 36-month term. Prices exclude sales tax, freight, installation, training and wear parts such as squeegees and brushes.",
+   "price_note": "US distributor listings price the bare robot at $23,800, with the auto-charging dock a separate $1,000 accessory and the bundle with the enhanced workstation listed from $29,500. Subscription is offered from $989 per month on a 36-month term. Prices exclude sales tax, freight, installation, training and wear parts.",
    "availability": "for-sale",
    "height_cm": 61.9,
    "weight_kg": 65,
@@ -2509,7 +2551,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "keenon-kleenbot-c30",
@@ -2519,7 +2561,7 @@
    "category": "service",
    "price_usd_min": 12200,
    "price_usd_max": 12200,
-   "price_note": "A US reseller lists the C30 at $12,200 including the 110V charging station and free domestic shipping; a European distributor lists the same machine at EUR 11,880 excluding VAT. Rental is offered from about $349 per month on a two-month minimum. Prices exclude VAT and duties, installation, training and consumables such as dust bags and mop pads.",
+   "price_note": "A US reseller lists the C30 at $12,200 including the 110V charging station and free domestic shipping; a European distributor lists the same machine at EUR 11,880 excluding VAT. Rental is offered from about $349 per month on a two-month minimum. Prices exclude VAT and duties, installation, training and consumables.",
    "availability": "for-sale",
    "height_cm": 75,
    "weight_kg": 35,
@@ -2530,7 +2572,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "unitree-superman",
@@ -2554,7 +2596,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
   },
   {
    "slug": "nori-a3",
@@ -2578,7 +2620,7 @@
    "sdk": "Nori Lab (laptop app), Skills Marketplace",
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "apps_key": "home-manipulation"
   },
   {
@@ -2603,7 +2645,7 @@
    "sdk": "Open-source SDK, simulator and RL training stack on GitHub (Apache-2.0)",
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-08",
+   "as_of": "2026-09",
    "apps_key": "research-manipulation"
   },
   {
@@ -2614,7 +2656,7 @@
    "category": "service",
    "price_usd_min": 31300,
    "price_usd_max": 31300,
-   "price_note": "ZEALS Corporation (Tokyo) opened sales and deployment consultations for the D1 on 2026-08-05, pricing it from ¥5,000,000 per unit (about $31,300 at current rates), per the company's own launch announcement. ZEALS is targeting 100 units of production within fiscal 2026, starting with hospital and eldercare pilots — this is a first-generation robot with no delivered-unit track record yet, and the company describes it as \"semi-domestic\": designed and assembled in Japan with some components sourced overseas.",
+   "price_note": "ZEALS Corporation (Tokyo) opened sales and deployment consultations for the D1 on 2026-08-05, pricing it from ¥5,000,000 per unit (about $31,300 at current rates), per the company's own launch announcement. ZEALS is targeting 100 units of production within fiscal 2026, starting with hospital and eldercare pilots — this is a first-generation robot with no delivered-unit track record yet.",
    "availability": "preorder",
    "height_cm": 129,
    "weight_kg": null,
@@ -2628,7 +2670,197 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-08"
+   "as_of": "2026-09"
+  },
+  {
+   "slug": "agibot-expedition-a3",
+   "model": "Expedition A3",
+   "maker": "AgiBot (Zhiyuan Robotics)",
+   "country": "China",
+   "category": "humanoid",
+   "price_usd_min": null,
+   "price_usd_max": null,
+   "price_note": "AgiBot has not published an official price for the Expedition A3, a martial-arts/exhibition humanoid unveiled at a Shanghai gala in February 2026. Conflicting analyst estimates of $45,000–$110,000 circulate on aggregator sites but do not trace to a manufacturer announcement or distributor listing, so no figure is shown here.",
+   "availability": "enterprise-only",
+   "height_cm": null,
+   "weight_kg": 55,
+   "dof": null,
+   "battery_hours": null,
+   "payload_kg": null,
+   "reach_mm": null,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": null,
+   "repeatability_mm": null,
+   "power_w": null,
+   "as_of": "2026-09"
+  },
+  {
+   "slug": "engineai-t800",
+   "model": "T800",
+   "maker": "EngineAI",
+   "country": "China",
+   "category": "humanoid",
+   "price_usd_min": 25000,
+   "price_usd_max": 80800,
+   "price_note": "EngineAI's own official page lists China domestic entry pricing at 180,000 CNY (about $25,000), rising to $80,800 for the top international Max edition. The T800 is sold only in China as of August 2026, amid a broader US import restriction on Chinese humanoid and quadruped robots.",
+   "availability": "for-sale",
+   "height_cm": 173,
+   "weight_kg": 75,
+   "dof": 29,
+   "battery_hours": null,
+   "payload_kg": null,
+   "reach_mm": null,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": null,
+   "repeatability_mm": null,
+   "power_w": null,
+   "as_of": "2026-09"
+  },
+  {
+   "slug": "anybotics-anymal-x",
+   "model": "ANYmal X",
+   "maker": "ANYbotics",
+   "country": "Switzerland",
+   "category": "quadruped",
+   "price_usd_min": null,
+   "price_usd_max": null,
+   "price_note": "The world's first Ex-certified (Zone 1 ATEX/IECEx explosion-proof) legged robot, built for oil & gas, chemical and mining inspection in hazardous zones. Sold only as a custom enterprise deployment; ANYbotics publishes no price.",
+   "availability": "enterprise-only",
+   "height_cm": null,
+   "weight_kg": null,
+   "dof": null,
+   "battery_hours": null,
+   "payload_kg": null,
+   "reach_mm": null,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": null,
+   "repeatability_mm": null,
+   "power_w": null,
+   "as_of": "2026-09"
+  },
+  {
+   "slug": "pudu-d7",
+   "model": "D7",
+   "maker": "Pudu Robotics (Pudu Embodied)",
+   "country": "China",
+   "category": "service",
+   "price_usd_min": null,
+   "price_usd_max": null,
+   "price_note": "Industrial semi-humanoid with dual-arm force control and autonomous battery swapping, launched June 1, 2026 for manufacturing and warehouse environments running the maker's own embodied foundation model. Sold via direct enterprise deployment; no public price disclosed.",
+   "availability": "enterprise-only",
+   "height_cm": 165,
+   "weight_kg": 45,
+   "dof": 30,
+   "battery_hours": 8,
+   "payload_kg": 14,
+   "reach_mm": null,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": null,
+   "repeatability_mm": null,
+   "power_w": null,
+   "as_of": "2026-09"
+  },
+  {
+   "slug": "robot-com-r-noid",
+   "model": "R-noid",
+   "maker": "Robot.com",
+   "country": "USA",
+   "category": "service",
+   "price_usd_min": null,
+   "price_usd_max": null,
+   "price_note": "Legless, wheeled general-purpose humanoid launched June 22, 2026 for logistics, hospitality and food-service tasks, with dual 7-DoF arms and a 4-DoF torso reaching up to 1.9 m; deployed only via Robot-as-a-Service contracts with 8–12 week onboarding, no public unit price.",
+   "availability": "enterprise-only",
+   "height_cm": null,
+   "weight_kg": null,
+   "dof": null,
+   "battery_hours": null,
+   "payload_kg": null,
+   "reach_mm": 1900,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": null,
+   "repeatability_mm": null,
+   "power_w": null,
+   "as_of": "2026-09"
+  },
+  {
+   "slug": "galbot-s1",
+   "model": "S1",
+   "maker": "Galbot",
+   "country": "China",
+   "category": "service",
+   "price_usd_min": null,
+   "price_usd_max": null,
+   "price_note": "Heavy-duty wheeled dual-arm robot launched January 2026 for factory material handling, with an industry-leading 50 kg continuous dual-arm payload; in active deployment at CATL battery-manufacturing sites. Enterprise sales only, no public price.",
+   "availability": "enterprise-only",
+   "height_cm": null,
+   "weight_kg": null,
+   "dof": null,
+   "battery_hours": 8,
+   "payload_kg": 50,
+   "reach_mm": 1050,
+   "speed_ms": 1.5,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": null,
+   "repeatability_mm": null,
+   "power_w": null,
+   "as_of": "2026-09"
+  },
+  {
+   "slug": "lightberry-lumi",
+   "model": "Lumi",
+   "maker": "Lightberry",
+   "country": "USA",
+   "category": "humanoid",
+   "price_usd_min": 39990,
+   "price_usd_max": 39990,
+   "price_note": "Reservation price on Lightberry's own site for Founder Edition units shipping in 2026. Lumi is a branded interaction platform built on a customized Unitree G1 hardware base (29 DoF chassis extended to 34 DoF with added grippers), sold and supported by Lightberry rather than through Unitree's own store.",
+   "availability": "preorder",
+   "height_cm": 127,
+   "weight_kg": 40,
+   "dof": 34,
+   "battery_hours": 3,
+   "payload_kg": null,
+   "reach_mm": null,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": "Lightberry OS (proprietary conversational-interaction stack on Unitree G1 hardware)",
+   "repeatability_mm": null,
+   "power_w": null,
+   "as_of": "2026-09"
+  },
+  {
+   "slug": "anan-panda",
+   "model": "An'An Panda",
+   "maker": "Mind With Heart Robotics",
+   "country": "China",
+   "category": "service",
+   "price_usd_min": 1000,
+   "price_usd_max": 1500,
+   "price_note": "European retail launch pricing announced at IFA Berlin 2026: $1,000-$1,500 per unit through distributors newly signed in Germany and Belgium. An early Forbes preview in January 2026 had floated under $600 for a consumer version; the confirmed launch price is well above that estimate. First production run is only 100 units, with a separate B2B configuration (behavioral-tracking dashboard for care providers) priced separately and not disclosed.",
+   "availability": "for-sale",
+   "height_cm": null,
+   "weight_kg": null,
+   "dof": null,
+   "battery_hours": null,
+   "payload_kg": null,
+   "reach_mm": null,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": null,
+   "as_of": "2026-09"
   }
  ]
 }
