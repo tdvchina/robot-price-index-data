@@ -4,7 +4,7 @@
  "url": "https://robotpriceindex.com/data",
  "license": "CC BY 4.0 — free to use with a visible link to https://robotpriceindex.com",
  "as_of": "2026-09",
- "robot_count": 130,
+ "robot_count": 131,
  "robots": [
   {
    "slug": "unitree-g1",
@@ -2106,6 +2106,30 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": null,
+   "as_of": "2026-09"
+  },
+  {
+   "slug": "hypershell-halo",
+   "model": "Halo",
+   "maker": "Hypershell",
+   "country": "China",
+   "category": "exoskeleton",
+   "price_usd_min": 2299,
+   "price_usd_max": 2299,
+   "price_note": "Hypershell's own web store lists the Halo at $2,299 for pre-order, shipping late November 2026. That price is explicitly tied to the 'Origin Edition' - a run capped at the first 200 units, bundled with an extra battery and an extended warranty - and Hypershell has not said whether it holds once that batch sells out.",
+   "availability": "preorder",
+   "height_cm": null,
+   "weight_kg": 2.6,
+   "dof": null,
+   "battery_hours": null,
+   "payload_kg": null,
+   "reach_mm": null,
+   "speed_ms": 4.7,
+   "ip_rating": "IP54",
+   "release_year": 2026,
+   "sdk": null,
+   "repeatability_mm": null,
+   "power_w": 1490,
    "as_of": "2026-09"
   },
   {
