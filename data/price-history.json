@@ -15,6 +15,13 @@
     "max": 73900
    }
   ],
+  "unitree-g1-plus": [
+   {
+    "date": "2026-09",
+    "min": 15000,
+    "max": 15000
+   }
+  ],
   "unitree-r1": [
    {
     "date": "2026-08",
@@ -157,6 +164,13 @@
     "date": "2026-09",
     "min": 100000,
     "max": 250000
+   }
+  ],
+  "agility-digit-5": [
+   {
+    "date": "2026-09",
+    "min": 102000,
+    "max": 200000
    }
   ],
   "fourier-gr-2": [
@@ -1489,6 +1503,34 @@
     "date": "2026-09",
     "min": 1000,
     "max": 1500
+   }
+  ],
+  "kinova-gen3-6-dof": [
+   {
+    "date": "2026-09",
+    "min": null,
+    "max": null
+   }
+  ],
+  "kinova-gen3-7-dof": [
+   {
+    "date": "2026-09",
+    "min": null,
+    "max": null
+   }
+  ],
+  "agibot-x2": [
+   {
+    "date": "2026-09",
+    "min": 24240,
+    "max": 24240
+   }
+  ],
+  "agibot-x2-ultra": [
+   {
+    "date": "2026-09",
+    "min": null,
+    "max": null
    }
   ]
  }
