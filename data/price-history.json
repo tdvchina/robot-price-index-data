@@ -2237,8 +2237,8 @@
   "agibot-a3-ultra": [
    {
     "date": "2026-10",
-    "min": null,
-    "max": null
+    "min": 88999,
+    "max": 103599
    }
   ],
   "vbot-superdog": [
@@ -2260,6 +2260,13 @@
     "date": "2026-10",
     "min": 9990,
     "max": 9990
+   }
+  ],
+  "ff-nova": [
+   {
+    "date": "2026-10",
+    "min": 2490,
+    "max": 2490
    }
   ],
   "galbot-et1": [

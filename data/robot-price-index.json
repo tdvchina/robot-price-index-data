@@ -4,7 +4,7 @@
  "url": "https://robotpriceindex.com/data",
  "license": "CC BY 4.0 — free to use with a visible link to https://robotpriceindex.com",
  "as_of": "2026-10",
- "robot_count": 144,
+ "robot_count": 145,
  "robots": [
   {
    "slug": "kinova-gen3-6-dof",
@@ -28,7 +28,7 @@
    "sdk": "Kinova Kortex; C++, Python, MATLAB; ROS/ROS 2 support documented in the 2024 manufacturer sheet; confirm current version compatibility",
    "repeatability_mm": null,
    "power_w": 36,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "kinova-gen3-7-dof",
@@ -52,7 +52,7 @@
    "sdk": "Kinova Kortex; C++, Python, MATLAB; ROS/ROS 2 support documented in the 2024 manufacturer sheet; confirm current version compatibility",
    "repeatability_mm": null,
    "power_w": 36,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "unitree-g1",
@@ -68,7 +68,7 @@
    "weight_kg": 35,
    "dof": 23,
    "battery_hours": 2,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 2,
    "speed_ms": 2,
    "ip_rating": null,
@@ -89,7 +89,7 @@
    "weight_kg": 35,
    "dof": 25,
    "battery_hours": 2,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 3,
    "speed_ms": null,
    "ip_rating": null,
@@ -110,7 +110,7 @@
    "weight_kg": 25,
    "dof": 26,
    "battery_hours": 1,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": null,
    "speed_ms": null,
    "ip_rating": null,
@@ -152,7 +152,7 @@
    "weight_kg": 40,
    "dof": 24,
    "battery_hours": 2,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": null,
    "speed_ms": 2,
    "ip_rating": null,
@@ -173,7 +173,7 @@
    "weight_kg": 30,
    "dof": 23,
    "battery_hours": 2,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 3,
    "speed_ms": 5,
    "ip_rating": null,
@@ -194,7 +194,7 @@
    "weight_kg": 43,
    "dof": 31,
    "battery_hours": 2,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 10,
    "speed_ms": null,
    "ip_rating": null,
@@ -215,7 +215,7 @@
    "weight_kg": 30,
    "dof": null,
    "battery_hours": 4,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 25,
    "speed_ms": 1.4,
    "ip_rating": null,
@@ -236,7 +236,7 @@
    "weight_kg": 71,
    "dof": 55,
    "battery_hours": 3,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 3,
    "speed_ms": null,
    "ip_rating": null,
@@ -257,7 +257,7 @@
    "weight_kg": 69,
    "dof": 40,
    "battery_hours": 2,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 15,
    "speed_ms": 1.9,
    "ip_rating": null,
@@ -278,7 +278,7 @@
    "weight_kg": 85,
    "dof": 47,
    "battery_hours": 10,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 5,
    "speed_ms": null,
    "ip_rating": null,
@@ -299,7 +299,7 @@
    "weight_kg": 62,
    "dof": 41,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 5,
    "speed_ms": 1.7,
    "ip_rating": null,
@@ -320,7 +320,7 @@
    "weight_kg": 73,
    "dof": 52,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 15,
    "speed_ms": 2,
    "ip_rating": null,
@@ -341,7 +341,7 @@
    "weight_kg": 65,
    "dof": null,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 16,
    "speed_ms": 1.5,
    "ip_rating": null,
@@ -362,7 +362,7 @@
    "weight_kg": 129,
    "dof": null,
    "battery_hours": 1.5,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 22.7,
    "speed_ms": null,
    "ip_rating": null,
@@ -383,7 +383,7 @@
    "weight_kg": 63,
    "dof": 53,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 3,
    "speed_ms": 1.4,
    "ip_rating": null,
@@ -404,7 +404,7 @@
    "weight_kg": 85,
    "dof": 52,
    "battery_hours": 8,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 15,
    "speed_ms": 1.1,
    "ip_rating": null,
@@ -425,7 +425,7 @@
    "weight_kg": 60,
    "dof": null,
    "battery_hours": 5,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 20,
    "speed_ms": 1.2,
    "ip_rating": null,
@@ -446,7 +446,7 @@
    "weight_kg": 57,
    "dof": null,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 20,
    "speed_ms": 2.2,
    "ip_rating": null,
@@ -467,7 +467,7 @@
    "weight_kg": null,
    "dof": null,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 30,
    "speed_ms": 2.5,
    "ip_rating": "IP67",
@@ -488,7 +488,7 @@
    "weight_kg": 15,
    "dof": 12,
    "battery_hours": 2,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 8,
    "reach_mm": null,
    "speed_ms": 5,
@@ -510,7 +510,7 @@
    "weight_kg": 8.9,
    "dof": 12,
    "battery_hours": 1.5,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 1,
    "reach_mm": null,
    "speed_ms": 1.6,
@@ -532,7 +532,7 @@
    "weight_kg": 12,
    "dof": 12,
    "battery_hours": 1.5,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 5,
    "reach_mm": null,
    "speed_ms": 4,
@@ -554,7 +554,7 @@
    "weight_kg": 56,
    "dof": 12,
    "battery_hours": 4,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 20,
    "reach_mm": null,
    "speed_ms": 4,
@@ -576,7 +576,7 @@
    "weight_kg": 60,
    "dof": 12,
    "battery_hours": 5,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 40,
    "reach_mm": null,
    "speed_ms": 6,
@@ -598,7 +598,7 @@
    "weight_kg": 32.7,
    "dof": 12,
    "battery_hours": 1.5,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 14,
    "reach_mm": null,
    "speed_ms": 1.6,
@@ -620,7 +620,7 @@
    "weight_kg": 25,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 5,
    "reach_mm": 900,
    "speed_ms": null,
@@ -644,7 +644,7 @@
    "weight_kg": 22,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 7,
    "reach_mm": 819,
    "speed_ms": null,
@@ -668,7 +668,7 @@
    "weight_kg": 25,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 7,
    "reach_mm": 717,
    "speed_ms": null,
@@ -692,7 +692,7 @@
    "weight_kg": 52,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 6,
    "reach_mm": 901,
    "speed_ms": null,
@@ -716,7 +716,7 @@
    "weight_kg": 20.6,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 5,
    "reach_mm": 850,
    "speed_ms": null,
@@ -740,7 +740,7 @@
    "weight_kg": null,
    "dof": 6,
    "battery_hours": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": 6,
    "reach_mm": 1450,
    "speed_ms": null,
@@ -764,7 +764,7 @@
    "weight_kg": null,
    "dof": null,
    "battery_hours": 8,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "payload_kg": null,
    "speed_ms": null,
    "ip_rating": null,
@@ -791,7 +791,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Unitree SDK2 (C++/Python), ROS 2 support; NVIDIA Jetson AGX Thor option on EDU",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "apptronik-apollo",
@@ -813,7 +813,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": "Closed platform; enterprise integrations (NVIDIA GR00T partner), no public SDK",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "xpeng-iron",
@@ -835,7 +835,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": "Closed; proprietary Turing AI chips (2,250 TOPS), no public SDK",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "dobot-atom",
@@ -857,7 +857,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Dobot ROM-1 robot operator model, programming interface included; 1500 TOPS edge compute",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "ufactory-xarm-6",
@@ -879,7 +879,7 @@
    "ip_rating": null,
    "release_year": 2019,
    "sdk": "Python/C++ SDK, ROS/ROS 2, UFACTORY Studio GUI",
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "repeatability_mm": 0.1,
    "power_w": 200
   },
@@ -903,7 +903,7 @@
    "ip_rating": null,
    "release_year": 2020,
    "sdk": "Python, C++, C#, JS, ROS, myBlockly/myStudio; open-source GitHub ecosystem",
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "repeatability_mm": 0.5,
    "power_w": 60
   },
@@ -927,7 +927,7 @@
    "ip_rating": "IP54",
    "release_year": 2021,
    "sdk": "ABB RobotStudio, Wizard Easy Programming, RAPID",
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "repeatability_mm": 0.02,
    "power_w": 202
   },
@@ -951,7 +951,7 @@
    "ip_rating": "IP67",
    "release_year": 2019,
    "sdk": "Smart Pendant / hand-guided teaching, MotoPlus SDK, ROS driver",
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "repeatability_mm": 0.05,
    "power_w": null
   },
@@ -975,7 +975,7 @@
    "ip_rating": "IP67",
    "release_year": 2021,
    "sdk": "ANYmal API and workforce/inspection software suite; enterprise integration, no consumer SDK",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "ghost-robotics-vision-60",
@@ -997,7 +997,7 @@
    "ip_rating": "IP67",
    "release_year": 2020,
    "sdk": "C/C++, ROS/ROS 2, MAVLink-compatible APIs, ATAK integration; physics-based simulator",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "pudu-bellabot",
@@ -1019,7 +1019,7 @@
    "ip_rating": null,
    "release_year": 2020,
    "sdk": "Closed",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "pudu-cc1",
@@ -1041,7 +1041,7 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": "Closed",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "keenon-dinerbot-t10",
@@ -1063,7 +1063,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": "Closed",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "keenon-butlerbot-w3",
@@ -1085,7 +1085,7 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": "Closed",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "bear-robotics-servi-plus",
@@ -1107,7 +1107,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": "Closed",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "orionstar-luckibot",
@@ -1129,7 +1129,7 @@
    "ip_rating": null,
    "release_year": 2021,
    "sdk": "Closed",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "gausium-scrubber-50-pro",
@@ -1173,7 +1173,7 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": "Closed",
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "apps_key": "beverage-service"
   },
   {
@@ -1196,7 +1196,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Fully open-source: hardware CAD, PowerFlow actuator designs, firmware and a Linux/ROS 2 stack with the AimRT framework, all published on GitHub",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "fourier-n1",
@@ -1218,7 +1218,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Fully open-source: complete hardware blueprints, published BOM, CAD, assembly instructions and base control software on GitHub (FSA 2.0 actuators)",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "kscale-k-bot",
@@ -1240,7 +1240,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Fully open-source: mechanical CAD, Rust-based K-OS operating system and sim-to-real ML stack on GitHub; entire IP open-sourced after the company wound down",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "berkeley-humanoid-lite",
@@ -1262,7 +1262,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Fully open-source: 3D-printable hardware design, published BOM, embedded code and RL training/deployment framework on GitHub",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "astribot-s1",
@@ -1284,7 +1284,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Proprietary DuoCore dual-system AI architecture with imitation-learning pipeline; enterprise developer access via Astribot",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "astribot-t1",
@@ -1352,7 +1352,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Developer platform for research and education with secondary-development support; optional 11-DOF dexterous hands, 3D LiDAR and voice interaction",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "tiangong-walker",
@@ -1374,7 +1374,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Open platform: published URDF/design assets and engineering docs (Tien Kung Open Source) plus the Huisi Kaiwu embodied-AI software platform",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "engineai-se01",
@@ -1396,7 +1396,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Developer SDK with commercial and education editions; end-to-end neural motion control (RL + imitation learning), 360-degree LiDAR and depth cameras",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "sanctuary-phoenix",
@@ -1418,7 +1418,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": "Proprietary Carbon AI cognitive control system (natural-language-to-action with auditable reasoning); no public SDK — hydraulic hands with 21 DOF and near-human tactile sensing",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "neura-4ne-1",
@@ -1440,7 +1440,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": "Neuraverse fleet-learning OS and app ecosystem; NVIDIA Thor compute with Isaac GR00T integration, modular exchangeable forearms and hands",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "pudu-d9",
@@ -1462,7 +1462,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Proprietary stack with 275 TOPS onboard compute, real-time 3D semantic mapping and DH11 11-DOF tactile dexterous hands; developer access via Pudu",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "unitree-go2-w",
@@ -1484,7 +1484,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Unitree SDK2 / ROS 2",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "unitree-b2-w",
@@ -1506,7 +1506,7 @@
    "ip_rating": "IP67",
    "release_year": 2024,
    "sdk": "Unitree SDK2 / ROS 2",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "deep-robotics-x20",
@@ -1528,7 +1528,7 @@
    "ip_rating": "IP66",
    "release_year": 2021,
    "sdk": "Deep Robotics SDK, ROS support",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "deep-robotics-lynx-m20",
@@ -1572,7 +1572,7 @@
    "ip_rating": "IP66",
    "release_year": 2026,
    "sdk": "Deep Robotics SDK, ROS support",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "mir-250",
@@ -1616,7 +1616,7 @@
    "ip_rating": null,
    "release_year": 2021,
    "sdk": "LocusOne fleet platform",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "geekplus-p1200r",
@@ -1638,7 +1638,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": "Geek+ Robot Management System (RMS)",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "agilox-one",
@@ -1660,7 +1660,7 @@
    "ip_rating": null,
    "release_year": 2017,
    "sdk": "AGILOX X-Swarm intelligence",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "pudu-t300",
@@ -1704,7 +1704,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": "Closed (German Bionic IO)",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "ekso-evo",
@@ -1726,7 +1726,7 @@
    "ip_rating": null,
    "release_year": 2020,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "ottobock-paexo-back",
@@ -1748,7 +1748,7 @@
    "ip_rating": null,
    "release_year": 2019,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "herowear-apex-2",
@@ -1770,7 +1770,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "byd-xiao-di",
@@ -1792,7 +1792,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "agibot-a2-ultra",
@@ -1813,7 +1813,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": "AimMaster control client; Linksoul platform for enterprise task customization. No open public SDK terms published.",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "fourier-gr-1",
@@ -1834,7 +1834,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "figure-02",
@@ -1855,7 +1855,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "leju-kuavo",
@@ -1876,7 +1876,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Open developer stack: public source repository (kuavo_opensource), SDK, documentation, simulation platform and 20+ demo cases; open embodied-AI manipulation datasets.",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "robot-era-star1",
@@ -1897,7 +1897,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "rainbow-robotics-rb-y1",
@@ -1918,7 +1918,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "rby1-sdk - official Python and C++ SDK, Apache 2.0, on GitHub",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "neura-4ne1-mini",
@@ -1939,7 +1939,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": "Neuraverse OS with NVIDIA Isaac GR00T foundation models; C++ SDK, digital twin and teleoperation in the Pro tier",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "mentee-menteebot-v3",
@@ -1960,7 +1960,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "clone-alpha",
@@ -1981,7 +1981,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "ai2-robotics-alphabot-2",
@@ -2002,7 +2002,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "softbank-whiz",
@@ -2044,7 +2044,7 @@
    "ip_rating": null,
    "release_year": 2015,
    "sdk": "ROS (Ubuntu LTS, RT Preempt), MoveIt!, ros_control",
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "apps_key": "research-manipulation"
   },
   {
@@ -2066,7 +2066,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Python SDK, ROS 2 Humble, LeRobot (open source)",
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "apps_key": "research-manipulation"
   },
   {
@@ -2088,7 +2088,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "ROS 2 and Python SDK (open source), Stretch AI",
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "apps_key": "research-manipulation"
   },
   {
@@ -2110,7 +2110,7 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "neura-lara-5",
@@ -2134,7 +2134,7 @@
    "ip_rating": "IP66",
    "release_year": 2021,
    "sdk": "NeuraPy API, NR easy drag-and-drop GUI; EtherCAT/IO-Link, Ethernet/IP, PROFINET, Modbus TCP/RTU",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "neura-maira-s",
@@ -2157,7 +2157,7 @@
    "ip_rating": "IP65",
    "release_year": 2021,
    "sdk": "Python NeuraPy API, NR easy GUI, optional low-level controller/sensor access; GPIO, Modbus TCP/RTU",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "shadow-dexterous-hand",
@@ -2178,7 +2178,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": "Full ROS integration (EtherCAT stack), Python/C++ API, Gazebo model; source and schematics under NDA",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "unitree-a2",
@@ -2199,7 +2199,7 @@
    "ip_rating": "IP56",
    "release_year": 2025,
    "sdk": "Unitree secondary development (high- and low-level), ROS 2, NVIDIA Isaac Sim support",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "wandercraft-atalante-x",
@@ -2220,7 +2220,7 @@
    "ip_rating": null,
    "release_year": 2022,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "hypershell-halo",
@@ -2244,7 +2244,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": 1490,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "agibot-a2-lite",
@@ -2265,7 +2265,7 @@
    "ip_rating": "IP5X (joint modules)",
    "release_year": null,
    "sdk": "AgiBot Botnet software support; motion development and swarm control tools",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "agibot-x2",
@@ -2286,7 +2286,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "agibot-x2-ultra",
@@ -2307,7 +2307,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "limx-tron-1",
@@ -2328,7 +2328,7 @@
    "ip_rating": null,
    "release_year": 2024,
    "sdk": "Python and C++ SDK with open hardware interface (Education Edition only)",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "limx-tron-2",
@@ -2349,7 +2349,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Python and C++; ROS 1 / ROS 2; Isaac Sim, MuJoCo and Gazebo simulation support",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "booster-k1",
@@ -2370,7 +2370,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": "Secondary development supported; upgradeable firmware, Gigabit Ethernet expansion",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "agibot-d1-ultra",
@@ -2391,7 +2391,7 @@
    "ip_rating": "IP54",
    "release_year": null,
    "sdk": "Secondary development supported, with an embedded reinforcement-learning locomotion stack",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "unitree-as2",
@@ -2412,7 +2412,7 @@
    "ip_rating": "IP54",
    "release_year": 2026,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "unitree-z1",
@@ -2434,7 +2434,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": "C++/Python SDK over Ethernet with position and force control; Ubuntu host, ROS support",
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "unitree-dex5-s",
@@ -2456,7 +2456,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "hello-robot-stretch-4",
@@ -2477,7 +2477,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": "Open-source ROS 2 and Python SDK; 3D SLAM navigation and data-collection tooling",
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "apps_key": "research-manipulation"
   },
   {
@@ -2499,7 +2499,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "pudu-kettybot-pro",
@@ -2520,7 +2520,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "pudu-pudubot-2",
@@ -2541,7 +2541,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "pudu-holabot",
@@ -2562,7 +2562,7 @@
    "ip_rating": "IPX5 (inner cabin)",
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "relay-robotics-relay",
@@ -2583,7 +2583,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "bear-robotics-servi-lift",
@@ -2604,7 +2604,7 @@
    "ip_rating": null,
    "release_year": 2023,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "lg-cloi-servebot",
@@ -2625,7 +2625,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "yunji-run",
@@ -2646,7 +2646,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "miso-flippy-fry-station",
@@ -2667,7 +2667,7 @@
    "ip_rating": null,
    "release_year": 2025,
    "sdk": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "apps_key": "food-prep"
   },
   {
@@ -2689,7 +2689,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "apps_key": "food-prep"
   },
   {
@@ -2711,7 +2711,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "keenon-kleenbot-c30",
@@ -2732,7 +2732,7 @@
    "ip_rating": null,
    "release_year": null,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "unitree-superman",
@@ -2756,7 +2756,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "nori-a3",
@@ -2780,7 +2780,7 @@
    "sdk": "Nori Lab (laptop app), Skills Marketplace",
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "apps_key": "home-manipulation"
   },
   {
@@ -2805,7 +2805,7 @@
    "sdk": "Open-source SDK, simulator and RL training stack on GitHub (Apache-2.0)",
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09",
+   "as_of": "2026-10",
    "apps_key": "research-manipulation"
   },
   {
@@ -2830,7 +2830,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "agibot-expedition-a3",
@@ -2854,7 +2854,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "agibot-a3-ultra",
@@ -2862,10 +2862,10 @@
    "maker": "Agibot (Zhiyuan Robotics)",
    "country": "China",
    "category": "humanoid",
-   "price_usd_min": null,
-   "price_usd_max": null,
-   "price_note": "Listed on AgiBot's own online store alongside the base A3, but with no USD price shown — the page routes to a \"Contact us\" enterprise-sales form rather than checkout. Specs are per AgiBot's own product page: a dual 1152 Wh battery pack rated for 8 hours of runtime and 700 TOPS of onboard compute. Degrees of freedom are published per limb (7 per arm, 6 per leg, 3 in the waist, up to 20 per hand) rather than as a single total, so no combined DoF figure is shown here.",
-   "availability": "enterprise-only",
+   "price_usd_min": 88999,
+   "price_usd_max": 103599,
+   "price_note": "AgiBot's own store shows no USD price (Contact us form), but distributor listings now publish one: $88,999 at one reseller, which states the robot is not currently offered in the US, and $103,599 at a US reseller as an on-demand item with tariffs included. The spread reflects dealer, tariff handling and on-demand sourcing rather than a manufacturer list price. Specs per AgiBot's product page: dual 1152 Wh battery pack rated for 8 hours of runtime and 700 TOPS of onboard compute. Degrees of freedom are published per limb (7 per arm, 6 per leg, 3 in the waist, up to 20 per hand), so no combined DoF figure is shown.",
+   "availability": "for-sale",
    "height_cm": 174,
    "weight_kg": 60,
    "dof": null,
@@ -2878,7 +2878,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "engineai-t800",
@@ -2902,7 +2902,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "anybotics-anymal-x",
@@ -2926,7 +2926,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "pudu-d7",
@@ -2950,7 +2950,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "robot-com-r-noid",
@@ -2974,7 +2974,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "galbot-s1",
@@ -2998,7 +2998,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "lightberry-lumi",
@@ -3022,7 +3022,7 @@
    "sdk": "Lightberry OS (proprietary conversational-interaction stack on Unitree G1 hardware)",
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "anan-panda",
@@ -3044,7 +3044,7 @@
    "ip_rating": null,
    "release_year": 2026,
    "sdk": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "vbot-superdog",
@@ -3068,7 +3068,7 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
-   "as_of": "2026-09"
+   "as_of": "2026-10"
   },
   {
    "slug": "feather",
@@ -3166,6 +3166,30 @@
    "model": "FF Master Mini",
    "price_usd_min": 9990,
    "price_note": "Manufacturer starting price announced 19 Sep 2026 for the education and competition humanoid; three compute configurations (48, 117, 200 TOPS) with higher tiers priced above the entry level. Orders via manufacturer store and US resellers."
+  },
+  {
+   "slug": "ff-nova",
+   "model": "FF Nova",
+   "maker": "Faraday Future (FF EAI-Robotics)",
+   "country": "United States",
+   "category": "humanoid",
+   "price_usd_min": 2490,
+   "price_usd_max": null,
+   "price_note": "Manufacturer price announced 15 Oct 2026 for the compact bipedal developer/education humanoid; the optional Developer Skills Package is $390 extra. Phase one is invitation-only and capped at 100 units (the first 20 ready for immediate delivery, per the manufacturer); wider developer and consumer sales have no dates yet.",
+   "availability": "preorder",
+   "height_cm": null,
+   "weight_kg": null,
+   "dof": 20,
+   "battery_hours": null,
+   "payload_kg": null,
+   "reach_mm": null,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": "Open SDK with ROS 2 workflow and over-the-air updates (per manufacturer release)",
+   "repeatability_mm": null,
+   "power_w": null,
+   "as_of": "2026-10"
   },
   {
    "slug": "galbot-et1",
