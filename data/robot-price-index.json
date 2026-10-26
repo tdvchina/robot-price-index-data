@@ -4,7 +4,7 @@
  "url": "https://robotpriceindex.com/data",
  "license": "CC BY 4.0 — free to use with a visible link to https://robotpriceindex.com",
  "as_of": "2026-10",
- "robot_count": 145,
+ "robot_count": 146,
  "robots": [
   {
    "slug": "kinova-gen3-6-dof",
@@ -3213,6 +3213,27 @@
    "sdk": null,
    "repeatability_mm": null,
    "power_w": null,
+   "as_of": "2026-10"
+  },
+  {
+   "slug": "unitree-h2-x",
+   "model": "H2-X Kung Fu Legend Guardian",
+   "maker": "Unitree Robotics",
+   "country": "China",
+   "category": "humanoid",
+   "price_usd_min": null,
+   "price_usd_max": null,
+   "price_note": "Not for sale: Unitree unveiled the H2-X on October 21, 2026 as a security-and-rescue variant of its H2 platform, with a video of jumps from a 4 m platform, strikes that dent a car door and a staged vehicle lift. The company claims a maximum endurance of about eight hours but has published no specifications, no price, no release window and no order channel, and has not said whether the demonstrated moves were autonomous. The base H2 lists at $29,900 on the manufacturer's store; that figure is a reference for the platform, not an H2-X price.",
+   "availability": "not-for-sale",
+   "height_cm": null,
+   "weight_kg": null,
+   "dof": null,
+   "battery_hours": 8,
+   "payload_kg": null,
+   "speed_ms": null,
+   "ip_rating": null,
+   "release_year": 2026,
+   "sdk": null,
    "as_of": "2026-10"
   }
  ]
